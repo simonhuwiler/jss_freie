@@ -22,7 +22,7 @@ function Entry(props)
   let data = props.data;
   var format = require('format-number');
   let lohn = data.lohn ? format({ suffix: '.-', integerSeparator : "'"})(data.lohn, {noSeparator: false}) : '';
-  let display = props.visible == true ?  {} : {display: 'none'};
+  let display = props.visible === true ?  {} : {display: 'none'};
 
   return (
     <div className="container" style={display}>
@@ -43,40 +43,30 @@ function Entry(props)
 
       </div>
     </div>
-    
   )
 }
 
-class List extends React.Component
+function List(props)
 {
-  constructor(props)
-  {
-    super(props);
-    //this.state = props;
-  }
-
-  render()
-  {
-    let entries = this.props.data.data.map((item, step) => {
-      let visible = true;
-      if(this.props.search && this.props.search != "")
-      {
-        let s = this.props.search.toLowerCase();
-        visible = item.medium.toLowerCase().indexOf(s) >= 0 || item.ressort.toLowerCase().indexOf(s) >= 0 ? true : false;
-      }
-      return (
-        <Entry key={step} data={item} visible={visible}/>
-      )
-    });
-
+  let entries = props.data.data.map((item, step) => {
+    let visible = true;
+    if(props.search && props.search !== "")
+    {
+      let s = props.search.toLowerCase();
+      visible = item.medium.toLowerCase().indexOf(s) >= 0 || item.ressort.toLowerCase().indexOf(s) >= 0 ? true : false;
+    }
     return (
-      <div>
-        <div id='listBox'>
-          {entries}
-        </div>
-      </div>
+      <Entry key={step} data={item} visible={visible}/>
     )
-  }
+  });
+
+  return (
+    <div>
+      <div id='listBox'>
+        {entries}
+      </div>
+    </div>
+  )
 }
 
 class Search extends React.Component
