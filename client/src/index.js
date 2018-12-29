@@ -2,6 +2,16 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './styles.css';
 
+const importAll = require =>
+require.keys().reduce((acc, next) => {
+  acc[next.replace("./", "")] = require(next);
+  return acc;
+}, {});
+
+const images = importAll(
+  require.context("./logos", false, /\.(png|jpe?g|svg)$/)
+);
+
 function Line(props)
 {
   if(!props.text)
@@ -24,13 +34,15 @@ function Entry(props)
   let lohn = data.lohn ? format({ suffix: '.-', integerSeparator : "'"})(data.lohn, {noSeparator: false}) : '';
   let display = props.visible === true ?  {} : {display: 'none'};
 
+  let title = data.ressort ? data.medium + ' - ' + data.ressort : data.medium
+
   return (
     <div className="container" style={display}>
       <div className="cell container_image">
-        <img src={require("./logos/20min.png")} alt="logos/tmp.png" className="image_medium" />
+        <img src={images[data.logo + '.png']} alt={images[data.logo + '.png']} className="image_medium" />
       </div>
       <div className="cell container_right">
-        <p className="medium">{data.medium} - {data.ressort}</p>
+        <p className="medium">{title}</p>
 
         <Line title='Jahr' text={data.jahr}/>
         <Line title='Lohn' text={lohn}/>
