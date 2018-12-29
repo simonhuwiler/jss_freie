@@ -16,7 +16,7 @@ $urls = array();
 
 $names[0] = "data";
 
-$urls[0] = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTugUHbfipmch2ALQwWHKgpuF5ZkoWesAVyAMvqcpB9GH6g3AyoXHwZMfIgXWxoVTgxeIAAXhp6qZED/pub?gid=1722481239&single=true&output=csv";
+$urls[0] = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTugUHbfipmch2ALQwWHKgpuF5ZkoWesAVyAMvqcpB9GH6g3AyoXHwZMfIgXWxoVTgxeIAAXhp6qZED/pub?gid=1617353131&single=true&output=csv";
 
 $bulkname = "bulk";
 
