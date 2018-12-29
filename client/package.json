@@ -2,6 +2,7 @@
   "name": "jss_freie",
   "version": "0.1.0",
   "private": true,
+  "homepage": ".",
   "dependencies": {
     "format-number": "^3.0.0",
     "react": "^16.7.0",
