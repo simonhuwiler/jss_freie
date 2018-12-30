@@ -111,7 +111,7 @@ h2
 .container_image
 {
   width: 152px;
-  padding-top: 20px;
+  padding-top: 5px;
 }
 
 @media (max-width: 767px)
