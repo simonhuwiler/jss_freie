@@ -71,13 +71,22 @@ body {
 	line-height: 0;
 }
 
-.medium
+h1
 {
   font-size: 1.5em;
   font-weight: bold;
   font-family: "Montserrat", "Myriad Pro Bold", "Myriad Pro", "Verdana";
   color: #000000;
   margin: 0px 0px 6px 0px;
+}
+
+h2
+{
+  font-size: 1.1em;
+  font-weight: bold;
+  font-family: "Montserrat", "Myriad Pro Bold", "Myriad Pro", "Verdana";
+  color: #000000;
+  margin: 0px 0px 0px 0px;
 }
 
 .container
@@ -112,7 +121,7 @@ body {
     width: 60px;
     padding-top: 20px;
     
-    display: none;
+    xdisplay: none;
   }  
 }
 
@@ -205,6 +214,7 @@ input[type=text]:focus {
   width: 110px;
   color: #9b9b9b;
   font-size: 0.8em;
+  font-weight: bold;
 }
 
 @media (max-width: 400px)
@@ -213,4 +223,9 @@ input[type=text]:focus {
   {
     width: 100%;
   }
+}
+
+.job
+{
+  margin: 15px 0px 30px 0px;
 }
