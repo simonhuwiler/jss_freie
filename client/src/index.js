@@ -2,16 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './styles.css';
 
-const importAll = require =>
-require.keys().reduce((acc, next) => {
-  acc[next.replace("./", "")] = require(next);
-  return acc;
-}, {});
-
-const images = importAll(
-  require.context("./logos", false, /\.(png|jpe?g|svg)$/)
-);
-
 function Line(props)
 {
   if(!props.text)
@@ -27,14 +17,56 @@ function Line(props)
   }
 }
 
-function Entry(props)
+function Job(props)
 {
   let data = props.data;
   var format = require('format-number');
   let lohn = data.lohn ? format({ suffix: '.-', integerSeparator : "'"})(data.lohn, {noSeparator: false}) : '';
+  return (
+    <div className='job'>
+      <Line title='Jahr' text={data.jahr} bold="1"/>
+      <Line title='Lohn' text={lohn}/>
+      <Line title='Sozialleistungen' text={data.sozialleistungen} />
+      <Line title='Spesen' text={data.spesen} />
+      <Line title='Abrechnung' text={data.abrechnung} />
+      <Line title='Auftrag' text={data.auftrag} />
+      <Line title='Zeichen' text={data.zeichen} />
+      <Line title='Infos' text={data.infos} />
+    </div>
+  )
+}
+
+function Ressort(props)
+{
+
+  //Map Jobs
+  let jobs = props.jobs.map((item, step) => {
+    return (
+      <Job key={step} data={item}/>
+    )
+  });
+
+  let ressort = props.name ? <h2>{props.name}</h2> : "";
+
+  return (
+    <div>
+      {ressort}
+      {jobs}
+    </div>
+  )
+}
+
+function Medium(props)
+{
+  let data = props.data;
   let display = props.visible === true ?  {} : {display: 'none'};
 
-  let title = data.ressort ? data.medium + ' - ' + data.ressort : data.medium
+  //Map Ressorts
+  let ressorts = props.data.ressorts.map((item, step) => {
+    return (
+      <Ressort key={item.name} name={item.name} jobs={item.jobs}/>
+    )
+  });
 
   return (
     <div className="container" style={display}>
@@ -42,9 +74,13 @@ function Entry(props)
         <img src={images[data.logo + '.png']} alt={images[data.logo + '.png']} className="image_medium" />
       </div>
       <div className="cell container_right">
-        <p className="medium">{title}</p>
-
-        <Line title='Jahr' text={data.jahr}/>
+        <h1>{data.name}</h1>
+        {ressorts}
+      </div>
+    </div>
+  )
+  /*
+          <Line title='Jahr' text={data.jahr}/>
         <Line title='Lohn' text={lohn}/>
         <Line title='Sozialleistungen' text={data.sozialleistungen} />
         <Line title='Spesen' text={data.spesen} />
@@ -52,23 +88,20 @@ function Entry(props)
         <Line title='Auftrag' text={data.auftrag} />
         <Line title='Zeichen' text={data.zeichen} />
         <Line title='Infos' text={data.infos} />
-
-      </div>
-    </div>
-  )
+        */
 }
 
 function List(props)
 {
-  let entries = props.data.data.map((item, step) => {
+  let entries = props.data.map((item, step) => {
     let visible = true;
     if(props.search && props.search !== "")
     {
       let s = props.search.toLowerCase();
-      visible = item.medium.toLowerCase().indexOf(s) >= 0 || item.ressort.toLowerCase().indexOf(s) >= 0 ? true : false;
+      visible = item.name.toLowerCase().indexOf(s) >= 0/* || item.ressort.toLowerCase().indexOf(s) >= 0*/ ? true : false;
     }
     return (
-      <Entry key={step} data={item} visible={visible}/>
+      <Medium key={step} data={item} visible={visible}/>
     )
   });
 
@@ -184,4 +217,14 @@ class Form extends React.Component
 ReactDOM.render(
   <Form />,
   document.getElementById('root')
+);
+
+const importAll = require =>
+require.keys().reduce((acc, next) => {
+  acc[next.replace("./", "")] = require(next);
+  return acc;
+}, {});
+
+const images = importAll(
+  require.context("./logos", false, /\.(png|jpe?g|svg)$/)
 );

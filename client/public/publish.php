@@ -74,9 +74,132 @@ for($i=0;$i<count($names);$i++) {
 		$bulk[$names[$i]] = $core_data;
 
 }
+
+
+
+//Reformat the json to a deep structure
+echo "go";
+$deep_data = [];
+
+
+function job_to_object($entry)
+{
+	$new_job = [];
+	$new_job['jahr'] = $entry['jahr'];
+	$new_job['lohn'] = $entry['lohn'];
+	$new_job['sozialleistungen'] = $entry['sozialleistungen'];
+	$new_job['spesen'] = $entry['spesen'];
+	$new_job['abrechnung'] = $entry['abrechnung'];
+	$new_job['zeichen'] = $entry['zeichen'];
+	$new_job['auftrag'] = $entry['auftrag'];
+	$new_job['infos'] = $entry['infos'];
+	return $new_job;
+}
+
+function ressort_to_object($entry)
+{
+	$new_ressort = [];
+	$new_ressort['name'] = $entry['ressort'];
+	$new_ressort['jobs'] = [];
+	$new_ressort['jobs'][] = job_to_object($entry);
+	return $new_ressort;
+}
+
+foreach($bulk['data'] as $entry)
+{
+	//Search in deep_data if medium already exists
+	$found = false;
+	foreach($deep_data as &$medium)
+	{
+		if($medium['name'] == $entry['medium'])
+		{
+			$found = true;
+			//Medium already in array. Add job
+
+			//First: Look, if ressort already exists
+			$found_ressort = false;
+			foreach($medium['ressorts'] as &$ressort)
+			{
+				if($ressort['name'] == $entry['ressort'])
+				{
+					$found_ressort = true;
+					$ressort['jobs'][] = job_to_object($entry);
+					break;
+				}
+			}
+
+			//Ressort not found
+			if(!$found_ressort)
+			{
+				$medium['ressorts'][] = ressort_to_object($entry);
+			}
+
+			break;
+		}
+	}
+
+	if(!$found)
+	{
+		//Medium not existing. Add it
+		$new_medium = [];
+		$new_medium['name'] = $entry['medium'];
+		$new_medium['logo'] = $entry['logo'];
+		$new_medium['ressorts'] = [];
+
+		$new_medium['ressorts'][] = ressort_to_object($entry);
+
+		$deep_data[] = $new_medium;
+	}
+}
+
+//Sort array
+function cmp_name($a, $b)
+{
+    return strcasecmp($a['name'], $b['name']);
+}
+
+function cmp_year($a, $b)
+{
+	$a = $a['jahr'];
+	$b = $b['jahr'];
+	if($a == "")
+		$a = "9999";
+	if($b == "")
+		$b = "9999";
+	if(intval($a) < intval($b))
+		return 1;
+	elseif(intval($a) == intval($b))
+		return 0;
+	else
+	  return -1;
+}
+
+//Sort medium
+usort($deep_data, "cmp_name");
+
+//Sort Ressorts
+foreach($deep_data as &$medium)
+{
+	usort($medium['ressorts'], "cmp_name");
+	foreach($medium['ressorts'] as &$ressort)
+	{
+		usort($ressort['jobs'], "cmp_year");
+	}
+}
+
+//Sort Jobs
+
+
+
+/*
+$fp = fopen('data/data_'.$bulkname.'_new.json', 'w');
+fwrite($fp, json_encode($deep_data));
+*/
+
+//Safe it
 		echo($bulkname." wird geschrieben...<br/>");
 		$fp = fopen('data/data_'.$bulkname.'.json', 'w');
-		if(fwrite($fp, json_encode($bulk))) {
+		if(fwrite($fp, json_encode($deep_data))) {
 			echo("Cache wurde erfolgreich aktualisiert.<br><br>");
 		}
 		else {
