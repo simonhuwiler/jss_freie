@@ -24,13 +24,13 @@ function Job(props)
   let lohn = data.lohn ? format({ suffix: '.-', integerSeparator : "'"})(data.lohn, {noSeparator: false}) : '';
   return (
     <div className='job'>
-      <Line title='Jahr' text={data.jahr} bold="1"/>
-      <Line title='Lohn' text={lohn}/>
+      <Line title='Jahr' text={data.jahr}/>
+      <Line title='Länge' text={data.zeichen} />
+      <Line title='Lohn brutto' text={lohn}/>
       <Line title='Sozialleistungen' text={data.sozialleistungen} />
       <Line title='Spesen' text={data.spesen} />
       <Line title='Abrechnung' text={data.abrechnung} />
       <Line title='Auftrag' text={data.auftrag} />
-      <Line title='Zeichen' text={data.zeichen} />
       <Line title='Infos' text={data.infos} />
     </div>
   )
@@ -46,11 +46,12 @@ function Ressort(props)
     )
   });
 
-  let ressort = props.name ? <h2>{props.name}</h2> : "";
+  let ressort = props.name ? props.name : "Ohne Ressortangabe";
+  let display = props.visible === true ?  {} : {display: 'none'};
 
   return (
-    <div>
-      {ressort}
+    <div style={display}>
+      <h2>{ressort}</h2>
       {jobs}
     </div>
   )
@@ -59,12 +60,12 @@ function Ressort(props)
 function Medium(props)
 {
   let data = props.data;
-  let display = props.visible === true ?  {} : {display: 'none'};
+  let display = data.visible === true ?  {} : {display: 'none'};
 
   //Map Ressorts
   let ressorts = props.data.ressorts.map((item, step) => {
     return (
-      <Ressort key={item.name} name={item.name} jobs={item.jobs}/>
+      <Ressort key={item.name} visible={item.visible} name={item.name} jobs={item.jobs}/>
     )
   });
 
@@ -73,35 +74,23 @@ function Medium(props)
       <div className="cell container_image">
         <img src={images[data.logo + '.png']} alt={images[data.logo + '.png']} className="image_medium" />
       </div>
+      <div className="container_image_cropped">
+        <img src={images_cropped[data.logo + '.png']} alt={images_cropped[data.logo + '.png']} className="image_medium" />
+      </div>
       <div className="cell container_right">
         <h1>{data.name}</h1>
         {ressorts}
       </div>
     </div>
   )
-  /*
-          <Line title='Jahr' text={data.jahr}/>
-        <Line title='Lohn' text={lohn}/>
-        <Line title='Sozialleistungen' text={data.sozialleistungen} />
-        <Line title='Spesen' text={data.spesen} />
-        <Line title='Abrechnung' text={data.abrechnung} />
-        <Line title='Auftrag' text={data.auftrag} />
-        <Line title='Zeichen' text={data.zeichen} />
-        <Line title='Infos' text={data.infos} />
-        */
 }
 
 function List(props)
 {
   let entries = props.data.map((item, step) => {
-    let visible = true;
-    if(props.search && props.search !== "")
-    {
-      let s = props.search.toLowerCase();
-      visible = item.name.toLowerCase().indexOf(s) >= 0/* || item.ressort.toLowerCase().indexOf(s) >= 0*/ ? true : false;
-    }
+    
     return (
-      <Medium key={step} data={item} visible={visible}/>
+      <Medium key={step} data={item}/>
     )
   });
 
@@ -159,6 +148,25 @@ class Form extends React.Component
     };
   }
 
+  allVisibleToTrue(data)
+  {
+    for(let medium in data)
+    {
+      data[medium].visible = true;
+      for(let ressort in data[medium].ressorts)
+      {
+        data[medium].ressorts[ressort].visible = true;
+        /*
+        for(let job in data[medium].ressorts[ressort].jobs)
+        {
+          data[medium].ressorts[ressort].jobs[job].visible = true;
+        }
+        */
+      }
+    };
+    return data;
+  }
+
   componentDidMount()
   {
     fetch("data/data_bulk.json")
@@ -166,10 +174,13 @@ class Form extends React.Component
     .then(
       (result) => {
 
-          this.setState({
-            isLoaded: true,
-            data: result
-          });
+        //Add visible = true
+        result = this.allVisibleToTrue(result);
+
+        this.setState({
+          isLoaded: true,
+          data: result
+        });
       },
       // Note: it's important to handle errors here
       // instead of a catch() block so that we don't swallow
@@ -185,28 +196,57 @@ class Form extends React.Component
 
   search(key)
   {
-    this.setState({search: key})
+    key = key.toLowerCase();
+
+    //First: Set every visible to true
+    let data = this.allVisibleToTrue(this.state.data);
+
+    //Second: Search in data for medium and ressort
+    if(key && key !== "")
+    {
+      for(let i_medium in data)
+      {
+        let medium = data[i_medium];
+        medium.visible = medium.name.toLowerCase().indexOf(key) >= 0;
+
+        //if v_medium == false, check, if ressorts are in search string
+        if(!medium.visible)
+        {
+          for(let i_ressort in medium.ressorts)
+          {
+            let ressort = medium.ressorts[i_ressort];
+            ressort.visible = ressort.name.toLowerCase().indexOf(key) >= 0;
+
+            //If ressort is in search string, change medium.visible to true
+            if(ressort.visible)
+            {
+              medium.visible = true;
+            }
+
+          }
+        }
+      }
+    }
+
+    this.setState({data: data});
   }
 
   render()
   {
     const { error, isLoaded, data } = this.state;
     if (error) {
-      return <div>Error: {error.message}</div>;
+      return <div>Ups, da ist ein Fehler aufgetreten. Tut uns leit! {error.message}</div>;
     } else if (!isLoaded) {
-      return <div>Loading...</div>;
+      return <div>Wird geladen...</div>;
     } else {
 
       return (
         <div>
           <Search onSearch={e => this.search(e)}/>
           <p id='leadin'></p>
-          <List data={data} search={this.state.search}/>
+          <List data={data}/>
         </div>
       )
-
-      //console.log(data);
-      //return ("Hallo");
     }
   }
 }
@@ -227,4 +267,8 @@ require.keys().reduce((acc, next) => {
 
 const images = importAll(
   require.context("./logos", false, /\.(png|jpe?g|svg)$/)
+);
+
+const images_cropped = importAll(
+  require.context("./logos_cropped", false, /\.(png|jpe?g|svg)$/)
 );

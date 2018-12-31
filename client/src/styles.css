@@ -114,17 +114,6 @@ h2
   padding-top: 5px;
 }
 
-@media (max-width: 767px)
-{
-  .container_image
-  {
-    width: 60px;
-    padding-top: 20px;
-    
-    xdisplay: none;
-  }  
-}
-
 .nopraktika
 {
   font-style: italic;
@@ -149,6 +138,51 @@ h2
 {
   vertical-align: middle;
   padding: 5px;
+}
+
+.container_image_cropped
+{
+  display: none;
+}
+
+@media (max-width: 767px)
+{
+  .container_image
+  {
+    display: none;
+  }  
+
+  .container_image_cropped
+  {
+    display: inline-block;
+    height: 30px;
+  }
+
+  .container_right
+  {
+    display: inline;
+  }
+
+  .image_medium
+  {
+    width: auto;
+    height: 100%;
+  }
+/*
+  .container
+  {
+    display: inline;
+  }
+
+
+
+  .cell
+  {
+    display: inline;
+  }
+
+
+  */
 }
 
 @media (max-width: 767px)
