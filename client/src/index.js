@@ -75,7 +75,7 @@ function Medium(props)
         <img src={images[data.logo + '.png']} alt={images[data.logo + '.png']} className="image_medium" />
       </div>
       <div className="container_image_cropped">
-        <img src={images_cropped[data.logo + '.png']} alt={images_cropped[data.logo + '.png']} className="image_medium" />
+        <img src={images[data.logo + '.png']} alt={images[data.logo + '.png']} className="image_medium" />
       </div>
       <div className="cell container_right">
         <h1>{data.name}</h1>
@@ -267,8 +267,4 @@ require.keys().reduce((acc, next) => {
 
 const images = importAll(
   require.context("./logos", false, /\.(png|jpe?g|svg)$/)
-);
-
-const images_cropped = importAll(
-  require.context("./logos_cropped", false, /\.(png|jpe?g|svg)$/)
 );

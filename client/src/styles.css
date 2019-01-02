@@ -105,13 +105,17 @@ h2
 
 .image_medium
 {
-  width: 100%;
+  max-width: 100%;
+  max-height: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
 
 .container_image
 {
   width: 152px;
-  padding-top: 5px;
+  padding-top: 15px;
 }
 
 .nopraktika
