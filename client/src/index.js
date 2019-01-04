@@ -21,7 +21,7 @@ function Job(props)
 {
   let data = props.data;
   var format = require('format-number');
-  let lohn = data.lohn ? format({ suffix: '.-', integerSeparator : "'"})(data.lohn, {noSeparator: false}) : '';
+  let lohn = data.lohn && !isNaN(data.lohn) ? format({ suffix: '.-', integerSeparator : "'"})(data.lohn, {noSeparator: false}) : data.lohn;
   return (
     <div className='job'>
       <Line title='Jahr' text={data.jahr}/>
