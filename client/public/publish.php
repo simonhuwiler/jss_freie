@@ -93,7 +93,7 @@ function job_to_object($entry)
 	$new_job['zeichen'] = $entry['zeichen'];
 	$new_job['auftrag'] = $entry['auftrag'];
 	$new_job['infos'] = $entry['infos'];
-	$new_job['offiziell'] = $entry['offiziell'] == '1' ? true : false;
+	//$new_job['offiziell'] = $entry['offiziell'] == '1' ? true : false;
 	return $new_job;
 }
 
@@ -117,25 +117,33 @@ foreach($bulk['data'] as $entry)
 			$found = true;
 			//Medium already in array. Add job
 
-			//First: Look, if ressort already exists
-			$found_ressort = false;
-			foreach($medium['ressorts'] as &$ressort)
+			if($entry['offiziell'] == '1')
 			{
-				if($ressort['name'] == $entry['ressort'])
+				$new_medium['text_offiziell'] = $entry['infos'];
+			}
+			else
+			{
+
+				//First: Look, if ressort already exists
+				$found_ressort = false;
+				foreach($medium['ressorts'] as &$ressort)
 				{
-					$found_ressort = true;
-					$ressort['jobs'][] = job_to_object($entry);
-					break;
+					if($ressort['name'] == $entry['ressort'])
+					{
+						$found_ressort = true;
+						$ressort['jobs'][] = job_to_object($entry);
+						break;
+					}
 				}
-			}
 
-			//Ressort not found
-			if(!$found_ressort)
-			{
-				$medium['ressorts'][] = ressort_to_object($entry);
-			}
+				//Ressort not found
+				if(!$found_ressort)
+				{
+					$medium['ressorts'][] = ressort_to_object($entry);
+				}
 
-			break;
+				break;
+			}
 		}
 	}
 
@@ -147,7 +155,10 @@ foreach($bulk['data'] as $entry)
 		$new_medium['logo'] = $entry['logo'];
 		$new_medium['ressorts'] = [];
 
-		$new_medium['ressorts'][] = ressort_to_object($entry);
+		if($entry['offiziell'] == '1')
+			$new_medium['text_offiziell'] = $entry['infos'];
+		else
+		  $new_medium['ressorts'][] = ressort_to_object($entry);
 
 		$deep_data[] = $new_medium;
 	}
@@ -165,10 +176,6 @@ function cmp_year($a, $b)
 	$s_a = $a['jahr'] == "" ? "9999" : $a['jahr'];
 	$s_b = $b['jahr'] == "" ? "9999" : $b['jahr'];
 	
-	//Check if offiziell
-	$s_a = $a['offiziell'] == true ? "9999999" : $s_a;
-	$s_b = $b['offiziell'] == true ? "9999999" : $s_b;
-
 	if(intval($s_a) < intval($s_b))
 		return 1;
 	elseif(intval($s_a) == intval($s_b))

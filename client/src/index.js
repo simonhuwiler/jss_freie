@@ -8,9 +8,8 @@ function Line(props)
     return ""
   else
   {
-    const classes = props.offiziell ? 'line line_offiziell' : 'line';
     return (
-      <div className={classes}>
+      <div className='line'>
         <div>{props.title}</div>
         <div>{props.text}</div>
       </div>
@@ -24,11 +23,8 @@ function Job(props)
   var format = require('format-number');
   let lohn = data.lohn && !isNaN(data.lohn) ? format({ suffix: '.-', integerSeparator : "'"})(data.lohn, {noSeparator: false}) : data.lohn;
 
-  //Add classes
-  const classes = data.offiziell === true ? 'job job_offiziell' : 'job';
-
   return (
-    <div className={classes}>
+    <div className='job'>
       {data.offiziell === true &&
         <div className='line_title'>Offizielle Angaben</div>
       }
@@ -87,6 +83,17 @@ function Medium(props)
       </div>
       <div className="cell container_right">
         <h1>{data.name}</h1>
+        {data.text_offiziell &&
+
+          <div className='info_offiziell'>
+            Offizielle Angaben<br />
+            <div className='info_offiziell_text'>
+              {data.text_offiziell.split('\n').map((item, key) => {
+                return <span key={key}>{item}<br/></span>
+              })}
+            </div>
+          </div>
+        }
         {ressorts}
       </div>
     </div>
