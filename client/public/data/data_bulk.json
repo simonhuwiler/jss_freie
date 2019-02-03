@@ -1,1 +1,2290 @@
-[{"name":"041 \u2013 Das Kulturmagazin","logo":"041","ressorts":[{"name":"","jobs":[{"jahr":"2018","lohn":"500","sozialleistungen":"AHV","spesen":"nein","abrechnung":"pauschal","zeichen":"10000 Zeichen","auftrag":"eigene Geschichte","infos":""}]}]},{"name":"20 Minuten","logo":"20min","ressorts":[{"name":"Region Bern","jobs":[{"jahr":"2018","lohn":"300","sozialleistungen":"","spesen":"nein","abrechnung":"Tagesansatz","zeichen":"","auftrag":"","infos":""}]}]},{"name":"Aargauer Zeitung","logo":"az","ressorts":[{"name":"","jobs":[{"jahr":"2017","lohn":"100","sozialleistungen":"AHV und ALV","spesen":"","abrechnung":"pauschal","zeichen":"3500 Zeichen","auftrag":"","infos":"Zweitpublikation"},{"jahr":"2013","lohn":"500","sozialleistungen":"","spesen":"","abrechnung":"pauschal","zeichen":"6600 Zeichen","auftrag":"","infos":""}]},{"name":"Ausland","jobs":[{"jahr":"2018","lohn":"300","sozialleistungen":"AHV und PK","spesen":"nein","abrechnung":"pro Zeile","zeichen":"4000 Zeichen","auftrag":"eigene Geschichte","infos":""}]}]},{"name":"Anzeiger aus dem Bezirk Affoltern","logo":"anzeigeraffoltern","ressorts":[{"name":"","jobs":[{"jahr":"2018","lohn":"","sozialleistungen":"","spesen":"","abrechnung":"","zeichen":"pro Zeile 1 Franken, pro Bild 50 Franken","auftrag":"","infos":""}]}]},{"name":"Basler Zeitung","logo":"baz","ressorts":[{"name":"Region","jobs":[{"jahr":"2018","lohn":"200","sozialleistungen":"AHV, ALV und PK","spesen":"ja","abrechnung":"pauschal","zeichen":"3000 Zeichen","auftrag":"Auftragsarbeit","infos":""},{"jahr":"2018","lohn":"250","sozialleistungen":"AHV, ALV und PK","spesen":"ja","abrechnung":"pauschal","zeichen":"3500 Zeichen","auftrag":"Auftragsarbeit","infos":""}]}]},{"name":"Beobachter","logo":"beobachter","ressorts":[{"name":"","jobs":[{"jahr":"2018","lohn":"3000","sozialleistungen":"AHV und PK","spesen":"Zug","abrechnung":"Tagesansatz","zeichen":"11000 Zeichen","auftrag":"Auftragsarbeit","infos":""},{"jahr":"2018","lohn":"3000","sozialleistungen":"AHV und PK","spesen":"Zug, 40 Franken Infrastrukturentsch\u00e4digung","abrechnung":"Tagesansatz","zeichen":"11000 Zeichen","auftrag":"Auftragsarbeit","infos":""},{"jahr":"2016","lohn":"2500","sozialleistungen":"AHV, ALV und PK","spesen":"nein","abrechnung":"pauschal","zeichen":"","auftrag":"eigene Geschichte","infos":"Reportage, aufw\u00e4ndige Recherche"}]},{"name":"Gesellschaft","jobs":[{"jahr":"2016","lohn":"540","sozialleistungen":"keine","spesen":"","abrechnung":"Tagesansatz (500 + 40 Infrastrukturpauschale)","zeichen":"eine Seite","auftrag":"eigene Geschichte","infos":"Aufwand 13 Stunden"},{"jahr":"2016","lohn":"4860","sozialleistungen":"keine","spesen":"","abrechnung":"Tagesansatz (500 + 40 Infrastrukturpauschale)","zeichen":"12000 Zeichen","auftrag":"eigene Geschichte","infos":"Mein Rekordhonorar. hat intern f\u00fcr krach gesorgt. Ich weiss, aus erster Hand, dass sie das heute nicht mehr zahlen. 140 Stunden Aufwand. (17 Tage)"},{"jahr":"2015","lohn":"3240","sozialleistungen":"keine","spesen":"","abrechnung":"Tagesansatz (500 + 40 Infrastrukturpauschale)","zeichen":"12900 Zeichen","auftrag":"eigene Geschichte","infos":"Aufwand 75 Stunden (9 Tage)"},{"jahr":"2015","lohn":"3780","sozialleistungen":"keine","spesen":"Infrastrukturpauschale von 40.- pro Tag","abrechnung":"Tagesansatz (500 + 40 Infrastrukturpauschale)","zeichen":"14700 Zeichen","auftrag":"eigene Geschichte","infos":"Aufwand genau erfasst: 125 Stunden (ca. halber Monat)"}]},{"name":"Nachlese","jobs":[{"jahr":"2017","lohn":"540","sozialleistungen":"AHV und ALV","spesen":"","abrechnung":"pauschal","zeichen":"2500 Zeichen","auftrag":"eigene Geschichte","infos":"Der Beobachter hat grunds\u00e4tzlich Tageshonorare von um die 500 Franken.\u00a0"}]}]},{"name":"Berner Zeitung","logo":"bernerzeitung","ressorts":[{"name":"Ausland","jobs":[{"jahr":"2017","lohn":"1100","sozialleistungen":"keine","spesen":"","abrechnung":"Tagesans\u00e4tze + 300 f\u00fcr Publikation in #12-App","zeichen":"8000 Zeichen","auftrag":"eigene Geschichte","infos":"Auslandrecherche"}]},{"name":"Inland","jobs":[{"jahr":"2015","lohn":"370","sozialleistungen":"AHV und ALV","spesen":"Zug","abrechnung":"pauschal","zeichen":"","auftrag":"Auftragsarbeit","infos":"Aufwand circa einen Tag"}]},{"name":"Kultur","jobs":[{"jahr":"2017","lohn":"250","sozialleistungen":"keine","spesen":"","abrechnung":"pauschal","zeichen":"3500 Zeichen","auftrag":"Auftragsarbeit","infos":"Buchrezension und Interview mit dem Autor"},{"jahr":"2017","lohn":"250","sozialleistungen":"keine","spesen":"\u00fcbernimmt Spesen wie Zug in der Regel","abrechnung":"pauschal","zeichen":"5000 Zeichen","auftrag":"eigene Geschichte","infos":"aufw\u00e4ndige Recherche und mehrere Interviews"},{"jahr":"2017","lohn":"350","sozialleistungen":"keine","spesen":"nein","abrechnung":"pauschal","zeichen":"4000 Zeichen","auftrag":"Auftragsarbeit","infos":"Investigative Recherche mit mehreren Interviewpartnern, im Laufe einer Woche erarbeitet"},{"jahr":"2017","lohn":"300","sozialleistungen":"keine","spesen":"Zug","abrechnung":"pauschal","zeichen":"4000 Zeichen","auftrag":"Auftragsarbeit","infos":"\u00a0Reportage in anderem Kanton mit Interviews und thematischer Vorrecherche"}]},{"name":"Schweiz","jobs":[{"jahr":"2015","lohn":"400","sozialleistungen":"AHV und ALV","spesen":"Zug","abrechnung":"pauschal","zeichen":"","auftrag":"Auftragsarbeit","infos":"Aufwand circa einen Tag"}]},{"name":"Sport","jobs":[{"jahr":"2018","lohn":"150","sozialleistungen":"AHV und ALV","spesen":"Zug","abrechnung":"pauschal","zeichen":"3500 Zeichen","auftrag":"Auftragsarbeit","infos":"tagesaktueller Bericht, wurde ohne zus\u00e4tzliche Entsch\u00e4digung zweitverwertet. Das liegt an der Zusammenf\u00fchrung der Tamedia-Sportredaktionen."},{"jahr":"2018","lohn":"150","sozialleistungen":"AHV und ALV","spesen":"Zug","abrechnung":"pauschal","zeichen":"3000 Zeichen","auftrag":"Auftragsarbeit","infos":"tagesaktueller Bericht"}]},{"name":"Stadt Bern","jobs":[{"jahr":"2015","lohn":"400","sozialleistungen":"AHV und ALV","spesen":"","abrechnung":"pauschal","zeichen":"","auftrag":"Auftragsarbeit","infos":"Aufwand circa einen Tag"}]}]},{"name":"Bieler Tagblatt","logo":"bielertagblatt","ressorts":[{"name":"Region","jobs":[{"jahr":"2018","lohn":"250","sozialleistungen":"AHV und ALV","spesen":"nein","abrechnung":"pauschal","zeichen":"4000 bis 6000 Zeichen","auftrag":"Auftragsarbeit","infos":"tagesaktuell mit Interview"}]},{"name":"Schweiz","jobs":[{"jahr":"2017","lohn":"250","sozialleistungen":"keine","spesen":"nein","abrechnung":"1 Franken pro Zeile","zeichen":"120 Zeilen","auftrag":"eigene Geschichte","infos":""}]}]},{"name":"Binninger Anzeiger","logo":"binningeranzeiger","ressorts":[{"name":"Region","jobs":[{"jahr":"2018","lohn":"260","sozialleistungen":"keine","spesen":"nein","abrechnung":"pro Stunde","zeichen":"4200 Zeichen","auftrag":"Auftragsarbeit","infos":""}]}]},{"name":"bz basel","logo":"bzbasel","ressorts":[{"name":"Basel","jobs":[{"jahr":"2018","lohn":"180","sozialleistungen":"","spesen":"nein","abrechnung":"pauschal","zeichen":"3500 Zeichen","auftrag":"Auftragsarbeit","infos":""}]},{"name":"Kultur","jobs":[{"jahr":"2018","lohn":"200","sozialleistungen":"keine","spesen":"","abrechnung":"pauschal","zeichen":"4500 Zeichen","auftrag":"Auftragsarbeit","infos":""}]}]},{"name":"B\u00e4rner B\u00e4r","logo":"baernerbaer","ressorts":[{"name":"Portr\u00e4t","jobs":[{"jahr":"2018","lohn":"300","sozialleistungen":"","spesen":"Keine","abrechnung":"pauschal","zeichen":"3500-4500 Zeichen inkl. Leerschl\u00e4ge","auftrag":"Auftragsarbeit","infos":"Aufwand vor Ort im Schnitt eine Stunde"}]}]},{"name":"Das Magazin","logo":"dasmagazin","ressorts":[{"name":"","jobs":[{"jahr":"2018","lohn":"400","sozialleistungen":"","spesen":"","abrechnung":"pauschal","zeichen":"4000 Zeichen","auftrag":"Auftragsarbeit","infos":""},{"jahr":"2017","lohn":"1500","sozialleistungen":"weiss nicht mehr","spesen":"nein","abrechnung":"pauschal","zeichen":"14000 Zeichen","auftrag":"eigene Geschichte","infos":"Auslandreportage mit mehreren Reiseorten"},{"jahr":"2016","lohn":"3000","sozialleistungen":"AHV und ALV","spesen":"Flug und Unterkunft","abrechnung":"pauschal","zeichen":"","auftrag":"eigene Geschichte","infos":"Reportage, hoher Rechercheaufwand"}]},{"name":"Ein Tag im Leben von","jobs":[{"jahr":"2018","lohn":"400","sozialleistungen":"","spesen":"nein","abrechnung":"pauschal","zeichen":"3500-4000 Zeichen","auftrag":"eigene Geschichte","infos":""},{"jahr":"2018","lohn":"400","sozialleistungen":"keine","spesen":"","abrechnung":"pauschal","zeichen":"3800 Zeichen","auftrag":"eigene Geschichte","infos":""},{"jahr":"2018","lohn":"400","sozialleistungen":"AHV und ALV","spesen":"ja, \u00dcbernachtung","abrechnung":"pauschal","zeichen":"3700 Zeichen","auftrag":"eigene Geschichte","infos":""},{"jahr":"2018","lohn":"400","sozialleistungen":"AHV","spesen":"","abrechnung":"pauschal","zeichen":"3800 Zeichen","auftrag":"eigene Geschichte","infos":""},{"jahr":"2017","lohn":"400","sozialleistungen":"AHV, ALV und PK","spesen":"nein","abrechnung":"pauschal","zeichen":"","auftrag":"eigene Geschichte","infos":"Aufwand circa 1,5 Tage"},{"jahr":"2017","lohn":"400","sozialleistungen":"AHV und ALV","spesen":"nein","abrechnung":"pauschal","zeichen":"3800 Zeichen","auftrag":"eigene Geschichte","infos":""},{"jahr":"2017","lohn":"400","sozialleistungen":"keine","spesen":"nein","abrechnung":"pauschal","zeichen":"6500 Zeichen plus ein Bild","auftrag":"eigene Geschichte","infos":""}]}]},{"name":"Der Bund","logo":"bund","ressorts":[{"name":"Bern","jobs":[{"jahr":"2018","lohn":"33 Franken pro Stunde","sozialleistungen":"AHV und ALV","spesen":"nein","abrechnung":"pro Stunde","zeichen":"","auftrag":"","infos":"bei allen Arten von freier Mitarbeit gilt der Stundenansatz"}]},{"name":"Kultur","jobs":[{"jahr":"2018","lohn":"450","sozialleistungen":"","spesen":"","abrechnung":"pro Zeichen \/pro Stunde","zeichen":"7000 Zeichen","auftrag":"Auftragsarbeit","infos":""},{"jahr":"2018","lohn":"250","sozialleistungen":"","spesen":"","abrechnung":"pro Zeichen \/pro Stunde","zeichen":"4000 Zeichen","auftrag":"Auftragsarbeit","infos":""}]},{"name":"Lokal","jobs":[{"jahr":"2018","lohn":"33 Franken pro Stunde","sozialleistungen":"AHV, ALV, PK","spesen":"Reisekosten","abrechnung":"pro Stunde","zeichen":"unterschiedlich","auftrag":"beides","infos":""}]},{"name":"Zentralressort (Abschlussredaktion)","jobs":[{"jahr":"2018","lohn":"40 Franken pro Stunde","sozialleistungen":"AHV, ALV und PK","spesen":"","abrechnung":"pro Stunde","zeichen":"","auftrag":"Auftragsarbeit","infos":"Redigier- und Layoutarbeit"}]}]},{"name":"Edito","logo":"edito","ressorts":[{"name":"","jobs":[{"jahr":"2018","lohn":"200","sozialleistungen":"weiss nicht mehr","spesen":"","abrechnung":"pauschal","zeichen":"4000 Zeichen","auftrag":"Auftragsarbeit","infos":""}]}]},{"name":"Freiburger Nachrichten","logo":"freiburgernachrichten","ressorts":[{"name":"Kultur","jobs":[{"jahr":"2018","lohn":"220","sozialleistungen":"keine","spesen":"ja (Kaffee w\u00e4hrend Interview)","abrechnung":"pauschal","zeichen":"3500 Zeichen","auftrag":"Auftragsarbeit","infos":"Besuch einer Abendveranstaltung, ein Interview mit dem Leiter und Interviews mit Teilnehmenden. Daf\u00fcr gab es etwas mehr (20 Fr.) als die \u00fcbliche Pauschale von 200 Fr."},{"jahr":"2018","lohn":"200","sozialleistungen":"keine","spesen":"","abrechnung":"pauschal","zeichen":"2500-3000 Zeichen","auftrag":"Auftragsarbeit","infos":"Es handelt sich um Kritiken. Gleiches Honorar f\u00fcr unterschiedliche L\u00e4nge. Jeweils Besuch der Kulturveranstaltung (Theater, Ausstellung etc.) mit Vorrecherche"}]}]},{"name":"Landbote","logo":"landbote","ressorts":[{"name":"Region","jobs":[{"jahr":"2015-2017","lohn":"150","sozialleistungen":"AHV","spesen":"nein","abrechnung":"pauschal","zeichen":"3500 Zeichen","auftrag":"meist Auftragsarbeiten","infos":""}]},{"name":"Stadtkultur","jobs":[{"jahr":"2017","lohn":"140","sozialleistungen":"keine","spesen":"","abrechnung":"pauschal","zeichen":"4500 Zeichen","auftrag":"eigene Geschichte","infos":""}]}]},{"name":"Medienwoche","logo":"medienwoche","ressorts":[{"name":"Ausland","jobs":[{"jahr":"2018","lohn":"500","sozialleistungen":"keine","spesen":"","abrechnung":"pauschal","zeichen":"6000 Zeichen","auftrag":"eigene Geschichte","infos":""}]}]},{"name":"Migros Magazin","logo":"migrosmagazin","ressorts":[{"name":"Inland","jobs":[{"jahr":"2018","lohn":"1050","sozialleistungen":"AHV\/IV, EO und PK","spesen":"ja","abrechnung":"Tagesansatz","zeichen":"3000 Zeichen","auftrag":"Auftragsarbeit","infos":""}]}]},{"name":"NZZ","logo":"nzz","ressorts":[{"name":"Ausland","jobs":[{"jahr":"2018","lohn":"200","sozialleistungen":"AHV und PK","spesen":"nein","abrechnung":"pauschal","zeichen":"3000 Zeichen","auftrag":"eigene Geschichte","infos":"tagesaktuell, nicht aufw\u00e4ndig"}]},{"name":"Lokal, Inland, Sport, Vermischtes","jobs":[{"jahr":"2017","lohn":"400","sozialleistungen":"alle","spesen":"ja","abrechnung":"pro Tag (400)","zeichen":"","auftrag":"beides","infos":"zus\u00e4tzliches Fixum pro Monat von 400.-, egal wie viel ich schrieb, Teil meiner \"Anstellung\" als fester freier Mitarbeiter"}]},{"name":"Panorama","jobs":[{"jahr":"2018","lohn":"550","sozialleistungen":"keine","spesen":"nein","abrechnung":"pauschal","zeichen":"6000 Zeichen","auftrag":"eigene Geschichte","infos":"total Arbeitsaufwand: ca. 10 Stunden"},{"jahr":"2018","lohn":"350","sozialleistungen":"AHV und ALV","spesen":"","abrechnung":"pauschal","zeichen":"3500 Zeichen","auftrag":"eigene Geschichte","infos":""},{"jahr":"2018","lohn":"500","sozialleistungen":"AHV und ALV","spesen":"","abrechnung":"pauschal","zeichen":"5500 Zeichen","auftrag":"eigene Geschichte","infos":""},{"jahr":"2018","lohn":"800","sozialleistungen":"AHV und PK","spesen":"","abrechnung":"pauschal","zeichen":"6000 Zeichen plus ein Bild","auftrag":"eigene Geschichte","infos":""},{"jahr":"2018","lohn":"600","sozialleistungen":"AHV und PK","spesen":"nein","abrechnung":"pauschal","zeichen":"7000 Zeichen","auftrag":"eigene Geschichte","infos":""}]},{"name":"Wochenendbund","jobs":[{"jahr":"2017","lohn":"800","sozialleistungen":"nein","spesen":"","abrechnung":"pauschal","zeichen":"eine Seite","auftrag":"eigene Geschichte","infos":""}]}]},{"name":"NZZ am Sonntag","logo":"nzzas","ressorts":[{"name":"Feuilleton","jobs":[{"jahr":"2017","lohn":"800","sozialleistungen":"AHV","spesen":"nein","abrechnung":"pauschal","zeichen":"8000 Zeichen","auftrag":"eigene Geschichte","infos":""}]},{"name":"Freizeitsport","jobs":[{"jahr":"2018","lohn":"600","sozialleistungen":"keine","spesen":"","abrechnung":"pauschal","zeichen":"6400","auftrag":"eigene Geschichte","infos":""}]},{"name":"Gesellschaft","jobs":[{"jahr":"2017","lohn":"2000","sozialleistungen":"keine","spesen":"nein","abrechnung":"pauschal","zeichen":"","auftrag":"eigene Geschichte","infos":"aufw\u00e4ndige Recherche"},{"jahr":"2016","lohn":"1500","sozialleistungen":"AHV und ALV","spesen":"Beitrag an Flug","abrechnung":"pauschal","zeichen":"","auftrag":"eigene Geschichte","infos":"Reportage, aufw\u00e4ndige Recherche"},{"jahr":"2016","lohn":"1500","sozialleistungen":"keine","spesen":"Zug","abrechnung":"pauschal","zeichen":"13300 Zeichen","auftrag":"eigene Geschichte","infos":"bei der NZZ (Gesellschaft) erhielt ich, egal wie viel Aufwand, f\u00fcr einen Auftrag immer 1500."},{"jahr":"2015","lohn":"2000","sozialleistungen":"keine","spesen":"Beitrag an Flug und Transport","abrechnung":"pauschal","zeichen":"","auftrag":"eigene Geschichte","infos":"Auslandsreportage, grosse Recherche"}]},{"name":"Wissen","jobs":[{"jahr":"2018","lohn":"1200","sozialleistungen":"AHV und PK","spesen":"nein","abrechnung":"pauschal","zeichen":"7000 Zeichen","auftrag":"eigene Geschichte","infos":""},{"jahr":"2018","lohn":"700","sozialleistungen":"AHV und PK","spesen":"","abrechnung":"","zeichen":"5500 Zeichen","auftrag":"eigene Geschichte","infos":""}]}]},{"name":"Obersee Nachrichten","logo":"oberseenachrichten","ressorts":[{"name":"Fokus","jobs":[{"jahr":"2018","lohn":"350","sozialleistungen":"keine","spesen":"","abrechnung":"pauschal","zeichen":"3500 Zeichen","auftrag":"beides","infos":"inklusive Strassenumfrage (4 Teilnehmer, mit Foto)"}]},{"name":"Interview","jobs":[{"jahr":"2018","lohn":"300","sozialleistungen":"keine","spesen":"","abrechnung":"pauschal","zeichen":"6500 Zeichen","auftrag":"Auftragsarbeit","infos":""}]}]},{"name":"Oltner Stadtanzeiger","logo":"oltnerstadtanzeiger","ressorts":[{"name":"Im Gespr\u00e4ch \/ Stadt \/ R\u00fcckblick","jobs":[{"jahr":"2018","lohn":"150","sozialleistungen":"AHV\/IV, ALV, NBUV, PK","spesen":"nein","abrechnung":"pauschal","zeichen":"4500-5000 Zeichen","auftrag":"Auftragsarbeit","infos":"circa 4 Stunden Aufwand (exkl. An- und R\u00fcckreise)"}]}]},{"name":"Radio SRF2 Kultur","logo":"srf2kultur","ressorts":[{"name":"Aktualit\u00e4t","jobs":[{"jahr":"2018","lohn":"400","sozialleistungen":"AHV","spesen":"","abrechnung":"pauschal","zeichen":"3.30-4 Minuten","auftrag":"beides","infos":""}]}]},{"name":"Rundschau (Effingermedien)","logo":"effingermedien","ressorts":[{"name":"Region","jobs":[{"jahr":"2018","lohn":"100-140","sozialleistungen":"AHV","spesen":"","abrechnung":"pauschal","zeichen":"3500 Zeichen","auftrag":"Auftragsarbeit","infos":"Meistens Besuch eines Anlasses oder Interview, Zeitaufwand inkl. schreiben ca. 4 Stunden"}]}]},{"name":"Schaffhauser Nachrichten","logo":"schaffhausernachrichten","ressorts":[{"name":"Region","jobs":[{"jahr":"2018","lohn":"80 Rappen pro Zeile (\u00e0 35Z) oder 80 Franken pro Anlass","sozialleistungen":"","spesen":"","abrechnung":"pro Zeile oder pauschal pro Anlass","zeichen":"oft kleinere Artikel","auftrag":"","infos":""}]}]},{"name":"Schweizer Familie","logo":"schweizerfamilie","ressorts":[{"name":"","jobs":[{"jahr":"2018","lohn":"1500","sozialleistungen":"AHV und PK","spesen":"Zug","abrechnung":"pauschal","zeichen":"13500 Zeichen","auftrag":"eigene Geschichte","infos":"sehr aufw\u00e4ndige Recherche"}]}]},{"name":"Schweizer Journalist","logo":"schweizerjournalist","ressorts":[{"name":"","jobs":[{"jahr":"2015","lohn":"800","sozialleistungen":"","spesen":"","abrechnung":"pauschal","zeichen":"9000 Zeichen","auftrag":"","infos":""},{"jahr":"2015","lohn":"800","sozialleistungen":"","spesen":"","abrechnung":"pauschal","zeichen":"7500 Zeichen","auftrag":"","infos":""}]}]},{"name":"sda","logo":"sda","ressorts":[{"name":"Kultur","jobs":[{"jahr":"2018","lohn":"780","sozialleistungen":"AHV und ALV","spesen":"Zug und Verpflegung","abrechnung":"pro Stunde","zeichen":"3000-4500 Zeichen","auftrag":"Auftragsarbeit","infos":"Aufw\u00e4ndige Portr\u00e4ts mit Lekt\u00fcre, Treffen der Autoren und Videointerview zusammen mit Keystone. Die Artikel und das Keystone-Video k\u00f6nnen theoretisch in allen Medien erscheinen, die das Angebot der SDA abonniert haben. Zweitverwertungs-Honorar gibt es folglich nicht. Ist aber nicht unbedingt repr\u00e4sentativ f\u00fcr die ganze SDA oder das Kulturressort, weil diese Literatur-Reihe von der Gottlieb und Hans Vogt-Stiftung mit einem Medienf\u00f6rderungsbeitrag unterst\u00fctzt wird."},{"jahr":"2018","lohn":"330","sozialleistungen":"","spesen":"ja","abrechnung":"pro Zeichen","zeichen":"4500 Zeichen","auftrag":"Auftragsarbeit","infos":""}]}]},{"name":"Sonntagsblick Magazin","logo":"sobli","ressorts":[{"name":"","jobs":[{"jahr":"2018","lohn":"1000","sozialleistungen":"nein","spesen":"ja","abrechnung":"pauschal","zeichen":"drei Seiten inkl. Bildern","auftrag":"eigene Geschichte","infos":""}]},{"name":"Magazin","jobs":[{"jahr":"2018","lohn":"1800","sozialleistungen":"AHV und ALV","spesen":"","abrechnung":"pauschal","zeichen":"","auftrag":"eigene Geschichte","infos":"Auflandreportage, hoher Rechercheaufwand"}]}]},{"name":"SRG Link Magazin","logo":"srg","ressorts":[{"name":"","jobs":[{"jahr":"2016","lohn":"1034","sozialleistungen":"AHV","spesen":"60.80 Infrastrukturentsch\u00e4digung\/Tag","abrechnung":"pauschal","zeichen":"5500 Zeichen","auftrag":"Auftragsarbeit","infos":"Ansatz: 517.-\/Tag. Aufwand meist um zwei Tage. Gutes Feedback, gute Zusammenarbeit, spannende Themen."}]}]},{"name":"SRG SSR","logo":"srg","ressorts":[{"name":"RTS Temps pr\u00e9sent","jobs":[{"jahr":"2018","lohn":"1950","sozialleistungen":"AHV, ALV, EO und IV","spesen":"","abrechnung":"Tagesansatz","zeichen":"mehrt\u00e4giger Rechercheauftrag f\u00fcr einen Dokumentarfilm","auftrag":"Auftragsarbeit","infos":""}]}]},{"name":"Stil Magazin (NZZ)","logo":"stil","ressorts":[{"name":"Reisen","jobs":[{"jahr":"","lohn":"600","sozialleistungen":"keine","spesen":"","abrechnung":"pauschal","zeichen":"5500 Zeichen","auftrag":"eigene Geschichte","infos":"Auslandsreise, 3 Tage Aufwand"},{"jahr":"2018","lohn":"300","sozialleistungen":"keine","spesen":"","abrechnung":"pauschal","zeichen":"3500 Zeichen","auftrag":"Auftragsarbeit","infos":"inkl. Zweitverwertung online"}]}]},{"name":"Surprise","logo":"surprise","ressorts":[{"name":"","jobs":[{"jahr":"2018","lohn":"400","sozialleistungen":"AHV, ALV und PK","spesen":"nein","abrechnung":"pauschal","zeichen":"","auftrag":"eigene Geschichte","infos":"Zweitpublikation"},{"jahr":"2017","lohn":"400","sozialleistungen":"keine","spesen":"","abrechnung":"pauschal","zeichen":"10000 Zeichen","auftrag":"eigene Geschichte","infos":""}]}]},{"name":"Swissinfo","logo":"swi","ressorts":[{"name":"Ausland","jobs":[{"jahr":"2018","lohn":"200","sozialleistungen":"AHV und PK","spesen":"nein","abrechnung":"pauschal","zeichen":"4000 Zeichen","auftrag":"eigene Geschichte","infos":"Zweitpublikation"},{"jahr":"2018","lohn":"700","sozialleistungen":"AHV und PK","spesen":"","abrechnung":"pauschal","zeichen":"7000 Zeichen","auftrag":"eigene Geschichte","infos":""}]},{"name":"Inland","jobs":[{"jahr":"2018","lohn":"700","sozialleistungen":"AHV, ALV und PK","spesen":"Zug","abrechnung":"pauschal","zeichen":"6000 Zeichen","auftrag":"Auftragsarbeit","infos":""}]}]},{"name":"Tagblatt der Stadt Z\u00fcrich","logo":"tablattzuerich","ressorts":[{"name":"","jobs":[{"jahr":"2018","lohn":"200","sozialleistungen":"","spesen":"","abrechnung":"200.- pro Seite\/ 400.- f\u00fcr Doppelseite","zeichen":"","auftrag":"beides","infos":""}]}]},{"name":"Tages-Anzeiger","logo":"tagi","ressorts":[{"name":"Inland","jobs":[{"jahr":"2017","lohn":"800","sozialleistungen":"AHV, ALV, PK","spesen":"","abrechnung":"pauschal","zeichen":"eine Seite","auftrag":"eigene Geschichte","infos":"Drei Tage Aufwand"}]},{"name":"Online","jobs":[{"jahr":"","lohn":"400","sozialleistungen":"AHV","spesen":"nein","abrechnung":"Tagesansatz","zeichen":"","auftrag":"","infos":""}]},{"name":"Z\u00fcrich","jobs":[{"jahr":"2017","lohn":"500","sozialleistungen":"AHV, ALV und PK","spesen":"nein","abrechnung":"pauschal","zeichen":"7000 Zeichen","auftrag":"eigene Geschichte","infos":""}]}]},{"name":"thurgaukultur.ch","logo":"thurgaukultur","ressorts":[{"name":"","jobs":[{"jahr":"2018","lohn":"200","sozialleistungen":"keine","spesen":"nein","abrechnung":"pauschal","zeichen":"unterschiedlich","auftrag":"beides","infos":"Honorare f\u00fcr Textbeitr\u00e4ge sind pauschal 200 Franken, kein zus\u00e4tzliches Honorar f\u00fcr eigene Bilder"}]}]},{"name":"Tierwelt","logo":"tierwelt","ressorts":[{"name":"","jobs":[{"jahr":"2018","lohn":"600","sozialleistungen":"AHV und PK","spesen":"Zug","abrechnung":"300 Franken pro Seite","zeichen":"6000 Zeichen","auftrag":"eigene Geschichte","infos":""}]},{"name":"Reisen","jobs":[{"jahr":"2018","lohn":"600","sozialleistungen":"keine","spesen":"","abrechnung":"300 Franken pro Seite","zeichen":"6000 Zeichen","auftrag":"eigene Geschichte","infos":""}]}]},{"name":"Toggenburger Zeitung","logo":"toz","ressorts":[{"name":"Region","jobs":[{"jahr":"2018","lohn":"200","sozialleistungen":"keine","spesen":"","abrechnung":"pauschal","zeichen":"3000-4000 Zeichen","auftrag":"beides","infos":"es gibt immer 200 Franken, egal wie gross der Aufwand ist.\u00a0"}]}]},{"name":"Vice Schweiz","logo":"vice","ressorts":[{"name":"","jobs":[{"jahr":"2017","lohn":"450","sozialleistungen":"keine","spesen":"Zug","abrechnung":"pauschal","zeichen":"11000 Zeichen","auftrag":"eigene Geschichte","infos":"inkl. Fotos"},{"jahr":"2017","lohn":"250","sozialleistungen":"keine","spesen":"Zug","abrechnung":"pauschal","zeichen":"7200 Zeichen","auftrag":"eigene Geschichte","infos":""},{"jahr":"2017","lohn":"250","sozialleistungen":"keine","spesen":"Zug","abrechnung":"pauschal","zeichen":"7600 Zeichen","auftrag":"eigene Geschichte","infos":""},{"jahr":"2017","lohn":"300","sozialleistungen":"keine","spesen":"","abrechnung":"pauschal","zeichen":"13000 Zeichen","auftrag":"Auftragsarbeit","infos":"musste unterschrieben werden: \"Hiermit erkl\u00e4re ich, dass ich auf AHV\/IV\/EO- und ALV-Beitr\u00e4ge aus dem Arbeitsverh\u00e4ltnis mit VICE Switzerland GmbH verzichte, da es sich um eine geringf\u00fcgige Entsch\u00e4digung f\u00fcr Nebenerwerb handelt, welche j\u00e4hrlich unter CHF 2'300.00 liegt.\""}]}]},{"name":"Wiler Zeitung","logo":"wilerzeitung","ressorts":[{"name":"Lokal","jobs":[{"jahr":"2018","lohn":"150","sozialleistungen":"","spesen":"Autospesen 0.70Fr.\/km","abrechnung":"pauschal","zeichen":"3000 Zeichen","auftrag":"Auftragsarbeit","infos":"tagesaktueller Bericht"}]}]},{"name":"WOZ","logo":"woz","ressorts":[{"name":"","jobs":[{"jahr":"2018","lohn":"290","sozialleistungen":"","spesen":"","abrechnung":"pro Zeile","zeichen":"5500 Zeichen","auftrag":"Auftragsarbeit","infos":""},{"jahr":"2018","lohn":"500","sozialleistungen":"AHV und ALV","spesen":"","abrechnung":"pauschal","zeichen":"6500 Zeichen","auftrag":"eigene Geschichte","infos":"eher aufw\u00e4ndig, mehrere Treffen"}]},{"name":"Ausland","jobs":[{"jahr":"2018","lohn":"500","sozialleistungen":"AHV und PK","spesen":"Transport, \u00dcbersetzer","abrechnung":"pauschal","zeichen":"10000 Zeichen","auftrag":"eigene Geschichte","infos":""},{"jahr":"2018","lohn":"525","sozialleistungen":"AHV, ALV und PK","spesen":"Beitrag an Flug und Unterkunft","abrechnung":"pro Zeile","zeichen":"","auftrag":"eigene Geschichte","infos":"Auslandsreportage, aufw\u00e4ndige Recherche"},{"jahr":"2017","lohn":"500","sozialleistungen":"AHV, ALV, EO, NBUV","spesen":"Beitrag an Flug und Unterkunft","abrechnung":"","zeichen":"10000 Zeichen","auftrag":"eigene Geschichte","infos":"aufw\u00e4ndige Auslandrecherche"}]},{"name":"Inland","jobs":[{"jahr":"2018","lohn":"1075","sozialleistungen":"AHV und ALV","spesen":"Anteil an Unterkunft und \u00dcbersetzer","abrechnung":"pro Zeile + Pauschale f\u00fcr Extraaufwand","zeichen":"10000 Zeichen","auftrag":"eigene Geschichte","infos":"Auslandreise, Artikel mehrmals angepasst"}]}]},{"name":"Z Magazin (NZZ)","logo":"zmagazin","ressorts":[{"name":"Reisen","jobs":[{"jahr":"2018","lohn":"900","sozialleistungen":"keine","spesen":"","abrechnung":"pauschal","zeichen":"9000 Zeichen","auftrag":"Auftragsarbeit","infos":""}]}]},{"name":"ZEIT Schweiz","logo":"diezeit","ressorts":[{"name":"","jobs":[{"jahr":"2017","lohn":"600","sozialleistungen":"AHV","spesen":"nein","abrechnung":"pauschal","zeichen":"8000 Zeichen","auftrag":"eigene Geschichte","infos":""},{"jahr":"2014","lohn":"400","sozialleistungen":"","spesen":"","abrechnung":"pauschal","zeichen":"6500 Zeichen","auftrag":"","infos":""}]}]},{"name":"Z\u00fcrichsee Zeitung","logo":"zuerichseezeitung","ressorts":[{"name":"Bezirk Horgen","jobs":[{"jahr":"2018","lohn":"170","sozialleistungen":"AHV, ALV, NBU","spesen":"nein","abrechnung":"pauschal","zeichen":"3700 Zeichen","auftrag":"Auftragsarbeit","infos":"Tagesaktueller Bericht. Ganzer Vormittag vor Ort, von Nachmittag bis Abend am Schreiben."}]},{"name":"Region","jobs":[{"jahr":"2018","lohn":"170","sozialleistungen":"keine","spesen":"","abrechnung":"pauschal","zeichen":"3000-4000 Zeichen","auftrag":"Auftragsarbeit","infos":"Meist handelt es sich um Nachberichterstattungen kultureller Anl\u00e4sse"}]}]}]
+[
+    {
+        "name": "041 – Das Kulturmagazin",
+        "logo": "",
+        "ressorts": [
+            {
+                "name": "",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "TEST",
+                        "sozialleistungen": "",
+                        "spesen": "TESttest",
+                        "abrechnung": "test",
+                        "zeichen": "",
+                        "auftrag": "",
+                        "infos": "",
+                        "offiziell": true
+                    },
+                    {
+                        "jahr": "2018",
+                        "lohn": "500",
+                        "sozialleistungen": "AHV",
+                        "spesen": "nein",
+                        "abrechnung": "pauschal",
+                        "zeichen": "10000 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "",
+                        "offiziell": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "20 Minuten",
+        "logo": "20min",
+        "ressorts": [
+            {
+                "name": "Region Bern",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "300",
+                        "sozialleistungen": "",
+                        "spesen": "nein",
+                        "abrechnung": "Tagesansatz",
+                        "zeichen": "",
+                        "auftrag": "",
+                        "infos": "",
+                        "offiziell": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Aargauer Zeitung",
+        "logo": "az",
+        "ressorts": [
+            {
+                "name": "",
+                "jobs": [
+                    {
+                        "jahr": "2017",
+                        "lohn": "100",
+                        "sozialleistungen": "AHV und ALV",
+                        "spesen": "",
+                        "abrechnung": "pauschal",
+                        "zeichen": "3500 Zeichen",
+                        "auftrag": "",
+                        "infos": "Zweitpublikation",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2013",
+                        "lohn": "500",
+                        "sozialleistungen": "",
+                        "spesen": "",
+                        "abrechnung": "pauschal",
+                        "zeichen": "6600 Zeichen",
+                        "auftrag": "",
+                        "infos": "",
+                        "offiziell": false
+                    }
+                ]
+            },
+            {
+                "name": "Ausland",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "300",
+                        "sozialleistungen": "AHV und PK",
+                        "spesen": "nein",
+                        "abrechnung": "pro Zeile",
+                        "zeichen": "4000 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "",
+                        "offiziell": false
+                    }
+                ]
+            },
+            {
+                "name": "Freiamt",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "150",
+                        "sozialleistungen": "",
+                        "spesen": "nein",
+                        "abrechnung": "pauschal",
+                        "zeichen": "2500-3500 Zeichen",
+                        "auftrag": "beides",
+                        "infos": "",
+                        "offiziell": false
+                    }
+                ]
+            },
+            {
+                "name": "Fricktal",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "120",
+                        "sozialleistungen": "",
+                        "spesen": "nein",
+                        "abrechnung": "pauschal",
+                        "zeichen": "2500-4500 Zeichen",
+                        "auftrag": "beides",
+                        "infos": "",
+                        "offiziell": false
+                    }
+                ]
+            },
+            {
+                "name": "Region",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "200",
+                        "sozialleistungen": "AHV und ALV",
+                        "spesen": "Autospesen 0.70Fr./km; Telefonate, Parkgebühren",
+                        "abrechnung": "pauschal",
+                        "zeichen": "im Schnitt 3000 Zeichen",
+                        "auftrag": "beides",
+                        "infos": "pro Artikel zwischen 180 und 250 Franken, je nach Aufwand. Ressorts Aarau, Lenzburg, Wynental/Suhrental",
+                        "offiziell": false
+                    }
+                ]
+            },
+            {
+                "name": "Sport",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "120",
+                        "sozialleistungen": "",
+                        "spesen": "nein",
+                        "abrechnung": "pauschal",
+                        "zeichen": "2500-4500 Zeichen",
+                        "auftrag": "beides",
+                        "infos": "Fotos werden extra bezahlt (120.-)",
+                        "offiziell": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Anzeiger aus dem Bezirk Affoltern",
+        "logo": "anzeigeraffoltern",
+        "ressorts": [
+            {
+                "name": "",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "",
+                        "sozialleistungen": "",
+                        "spesen": "",
+                        "abrechnung": "",
+                        "zeichen": "pro Zeile 1 Franken, pro Bild 50 Franken",
+                        "auftrag": "",
+                        "infos": "",
+                        "offiziell": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Basler Zeitung",
+        "logo": "baz",
+        "ressorts": [
+            {
+                "name": "Region",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "200",
+                        "sozialleistungen": "AHV, ALV und PK",
+                        "spesen": "ja",
+                        "abrechnung": "pauschal",
+                        "zeichen": "3000 Zeichen",
+                        "auftrag": "Auftragsarbeit",
+                        "infos": "",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2018",
+                        "lohn": "250",
+                        "sozialleistungen": "AHV, ALV und PK",
+                        "spesen": "ja",
+                        "abrechnung": "pauschal",
+                        "zeichen": "3500 Zeichen",
+                        "auftrag": "Auftragsarbeit",
+                        "infos": "",
+                        "offiziell": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Beobachter",
+        "logo": "beobachter",
+        "ressorts": [
+            {
+                "name": "",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "3000",
+                        "sozialleistungen": "AHV und PK",
+                        "spesen": "Zug, 40 Franken Infrastrukturentschädigung",
+                        "abrechnung": "Tagesansatz",
+                        "zeichen": "11000 Zeichen",
+                        "auftrag": "Auftragsarbeit",
+                        "infos": "",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2018",
+                        "lohn": "3000",
+                        "sozialleistungen": "AHV und PK",
+                        "spesen": "Zug",
+                        "abrechnung": "Tagesansatz",
+                        "zeichen": "11000 Zeichen",
+                        "auftrag": "Auftragsarbeit",
+                        "infos": "",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2017",
+                        "lohn": "1080",
+                        "sozialleistungen": "",
+                        "spesen": "",
+                        "abrechnung": "",
+                        "zeichen": "6500 Zeichen",
+                        "auftrag": "",
+                        "infos": "circa 19 Stunden Aufwand",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2016",
+                        "lohn": "1600",
+                        "sozialleistungen": "keine",
+                        "spesen": "",
+                        "abrechnung": "",
+                        "zeichen": "6000 Zeichen",
+                        "auftrag": "",
+                        "infos": "",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2016",
+                        "lohn": "2500",
+                        "sozialleistungen": "AHV, ALV und PK",
+                        "spesen": "nein",
+                        "abrechnung": "pauschal",
+                        "zeichen": "",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "Reportage, aufwändige Recherche",
+                        "offiziell": false
+                    }
+                ]
+            },
+            {
+                "name": "Gesellschaft",
+                "jobs": [
+                    {
+                        "jahr": "2016",
+                        "lohn": "540",
+                        "sozialleistungen": "keine",
+                        "spesen": "",
+                        "abrechnung": "Tagesansatz (500 + 40 Infrastrukturpauschale)",
+                        "zeichen": "eine Seite",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "Aufwand 13 Stunden",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2016",
+                        "lohn": "4860",
+                        "sozialleistungen": "keine",
+                        "spesen": "",
+                        "abrechnung": "Tagesansatz (500 + 40 Infrastrukturpauschale)",
+                        "zeichen": "12000 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "Mein Rekordhonorar. hat intern für krach gesorgt. Ich weiss, aus erster Hand, dass sie das heute nicht mehr zahlen. 140 Stunden Aufwand. (17 Tage)",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2015",
+                        "lohn": "3240",
+                        "sozialleistungen": "keine",
+                        "spesen": "",
+                        "abrechnung": "Tagesansatz (500 + 40 Infrastrukturpauschale)",
+                        "zeichen": "12900 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "Aufwand 75 Stunden (9 Tage)",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2015",
+                        "lohn": "3780",
+                        "sozialleistungen": "keine",
+                        "spesen": "Infrastrukturpauschale von 40.- pro Tag",
+                        "abrechnung": "Tagesansatz (500 + 40 Infrastrukturpauschale)",
+                        "zeichen": "14700 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "Aufwand genau erfasst: 125 Stunden (ca. halber Monat)",
+                        "offiziell": false
+                    }
+                ]
+            },
+            {
+                "name": "Nachlese",
+                "jobs": [
+                    {
+                        "jahr": "2017",
+                        "lohn": "540",
+                        "sozialleistungen": "AHV und ALV",
+                        "spesen": "",
+                        "abrechnung": "pauschal",
+                        "zeichen": "2500 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "Der Beobachter hat grundsätzlich Tageshonorare von um die 500 Franken. ",
+                        "offiziell": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Berner Zeitung",
+        "logo": "bernerzeitung",
+        "ressorts": [
+            {
+                "name": "",
+                "jobs": [
+                    {
+                        "jahr": "2017",
+                        "lohn": "450",
+                        "sozialleistungen": "keine",
+                        "spesen": "",
+                        "abrechnung": "",
+                        "zeichen": "5400 Zeichen",
+                        "auftrag": "",
+                        "infos": "Aufwand circa 10 Stunden",
+                        "offiziell": false
+                    }
+                ]
+            },
+            {
+                "name": "Ausland",
+                "jobs": [
+                    {
+                        "jahr": "2017",
+                        "lohn": "1100",
+                        "sozialleistungen": "keine",
+                        "spesen": "",
+                        "abrechnung": "Tagesansätze + 300 für Publikation in #12-App",
+                        "zeichen": "8000 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "Auslandrecherche",
+                        "offiziell": false
+                    }
+                ]
+            },
+            {
+                "name": "Inland",
+                "jobs": [
+                    {
+                        "jahr": "2015",
+                        "lohn": "370",
+                        "sozialleistungen": "AHV und ALV",
+                        "spesen": "Zug",
+                        "abrechnung": "pauschal",
+                        "zeichen": "",
+                        "auftrag": "Auftragsarbeit",
+                        "infos": "Aufwand circa einen Tag",
+                        "offiziell": false
+                    }
+                ]
+            },
+            {
+                "name": "Kultur",
+                "jobs": [
+                    {
+                        "jahr": "2017",
+                        "lohn": "250",
+                        "sozialleistungen": "keine",
+                        "spesen": "",
+                        "abrechnung": "pauschal",
+                        "zeichen": "3500 Zeichen",
+                        "auftrag": "Auftragsarbeit",
+                        "infos": "Buchrezension und Interview mit dem Autor",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2017",
+                        "lohn": "250",
+                        "sozialleistungen": "keine",
+                        "spesen": "übernimmt Spesen wie Zug in der Regel",
+                        "abrechnung": "pauschal",
+                        "zeichen": "5000 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "aufwändige Recherche und mehrere Interviews",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2017",
+                        "lohn": "350",
+                        "sozialleistungen": "keine",
+                        "spesen": "nein",
+                        "abrechnung": "pauschal",
+                        "zeichen": "4000 Zeichen",
+                        "auftrag": "Auftragsarbeit",
+                        "infos": "Investigative Recherche mit mehreren Interviewpartnern, im Laufe einer Woche erarbeitet",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2017",
+                        "lohn": "300",
+                        "sozialleistungen": "keine",
+                        "spesen": "Zug",
+                        "abrechnung": "pauschal",
+                        "zeichen": "4000 Zeichen",
+                        "auftrag": "Auftragsarbeit",
+                        "infos": " Reportage in anderem Kanton mit Interviews und thematischer Vorrecherche",
+                        "offiziell": false
+                    }
+                ]
+            },
+            {
+                "name": "Schweiz",
+                "jobs": [
+                    {
+                        "jahr": "2015",
+                        "lohn": "400",
+                        "sozialleistungen": "AHV und ALV",
+                        "spesen": "Zug",
+                        "abrechnung": "pauschal",
+                        "zeichen": "",
+                        "auftrag": "Auftragsarbeit",
+                        "infos": "Aufwand circa einen Tag",
+                        "offiziell": false
+                    }
+                ]
+            },
+            {
+                "name": "Sport",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "150",
+                        "sozialleistungen": "AHV und ALV",
+                        "spesen": "Zug",
+                        "abrechnung": "pauschal",
+                        "zeichen": "3500 Zeichen",
+                        "auftrag": "Auftragsarbeit",
+                        "infos": "tagesaktueller Bericht, wurde ohne zusätzliche Entschädigung zweitverwertet. Das liegt an der Zusammenführung der Tamedia-Sportredaktionen.",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2018",
+                        "lohn": "150",
+                        "sozialleistungen": "AHV und ALV",
+                        "spesen": "Zug",
+                        "abrechnung": "pauschal",
+                        "zeichen": "3000 Zeichen",
+                        "auftrag": "Auftragsarbeit",
+                        "infos": "tagesaktueller Bericht",
+                        "offiziell": false
+                    }
+                ]
+            },
+            {
+                "name": "Stadt Bern",
+                "jobs": [
+                    {
+                        "jahr": "2015",
+                        "lohn": "400",
+                        "sozialleistungen": "AHV und ALV",
+                        "spesen": "",
+                        "abrechnung": "pauschal",
+                        "zeichen": "",
+                        "auftrag": "Auftragsarbeit",
+                        "infos": "Aufwand circa einen Tag",
+                        "offiziell": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Bieler Tagblatt",
+        "logo": "bielertagblatt",
+        "ressorts": [
+            {
+                "name": "Region",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "250",
+                        "sozialleistungen": "AHV und ALV",
+                        "spesen": "nein",
+                        "abrechnung": "pauschal",
+                        "zeichen": "4000 bis 6000 Zeichen",
+                        "auftrag": "Auftragsarbeit",
+                        "infos": "tagesaktuell mit Interview",
+                        "offiziell": false
+                    }
+                ]
+            },
+            {
+                "name": "Schweiz",
+                "jobs": [
+                    {
+                        "jahr": "2017",
+                        "lohn": "250",
+                        "sozialleistungen": "keine",
+                        "spesen": "nein",
+                        "abrechnung": "1 Franken pro Zeile",
+                        "zeichen": "120 Zeilen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "",
+                        "offiziell": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Binninger Anzeiger",
+        "logo": "binningeranzeiger",
+        "ressorts": [
+            {
+                "name": "Region",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "260",
+                        "sozialleistungen": "keine",
+                        "spesen": "nein",
+                        "abrechnung": "pro Stunde",
+                        "zeichen": "4200 Zeichen",
+                        "auftrag": "Auftragsarbeit",
+                        "infos": "",
+                        "offiziell": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "bz basel",
+        "logo": "bzbasel",
+        "ressorts": [
+            {
+                "name": "Basel",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "180",
+                        "sozialleistungen": "",
+                        "spesen": "nein",
+                        "abrechnung": "pauschal",
+                        "zeichen": "3500 Zeichen",
+                        "auftrag": "Auftragsarbeit",
+                        "infos": "",
+                        "offiziell": false
+                    }
+                ]
+            },
+            {
+                "name": "Kultur",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "200",
+                        "sozialleistungen": "keine",
+                        "spesen": "",
+                        "abrechnung": "pauschal",
+                        "zeichen": "4500 Zeichen",
+                        "auftrag": "Auftragsarbeit",
+                        "infos": "",
+                        "offiziell": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Bärner Bär",
+        "logo": "baernerbaer",
+        "ressorts": [
+            {
+                "name": "Porträt",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "300",
+                        "sozialleistungen": "",
+                        "spesen": "Keine",
+                        "abrechnung": "pauschal",
+                        "zeichen": "3500-4500 Zeichen inkl. Leerschläge",
+                        "auftrag": "Auftragsarbeit",
+                        "infos": "Aufwand vor Ort im Schnitt eine Stunde",
+                        "offiziell": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Das Magazin",
+        "logo": "dasmagazin",
+        "ressorts": [
+            {
+                "name": "",
+                "jobs": [
+                    {
+                        "jahr": "",
+                        "lohn": "3000",
+                        "sozialleistungen": "AHV",
+                        "spesen": "ja",
+                        "abrechnung": "pauschal",
+                        "zeichen": "20000 Zeichen",
+                        "auftrag": "",
+                        "infos": "etwa 3 Wochen Aufwand",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2018",
+                        "lohn": "400",
+                        "sozialleistungen": "",
+                        "spesen": "",
+                        "abrechnung": "pauschal",
+                        "zeichen": "4000 Zeichen",
+                        "auftrag": "Auftragsarbeit",
+                        "infos": "",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2017",
+                        "lohn": "1500",
+                        "sozialleistungen": "weiss nicht mehr",
+                        "spesen": "nein",
+                        "abrechnung": "pauschal",
+                        "zeichen": "14000 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "Auslandreportage mit mehreren Reiseorten",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2016",
+                        "lohn": "3000",
+                        "sozialleistungen": "AHV und ALV",
+                        "spesen": "Flug und Unterkunft",
+                        "abrechnung": "pauschal",
+                        "zeichen": "",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "Reportage, hoher Rechercheaufwand",
+                        "offiziell": false
+                    }
+                ]
+            },
+            {
+                "name": "Ein Tag im Leben von",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "400",
+                        "sozialleistungen": "",
+                        "spesen": "nein",
+                        "abrechnung": "pauschal",
+                        "zeichen": "3500-4000 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2018",
+                        "lohn": "400",
+                        "sozialleistungen": "keine",
+                        "spesen": "",
+                        "abrechnung": "pauschal",
+                        "zeichen": "3800 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2018",
+                        "lohn": "400",
+                        "sozialleistungen": "AHV und ALV",
+                        "spesen": "ja, Übernachtung",
+                        "abrechnung": "pauschal",
+                        "zeichen": "3700 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2018",
+                        "lohn": "400",
+                        "sozialleistungen": "AHV",
+                        "spesen": "",
+                        "abrechnung": "pauschal",
+                        "zeichen": "3800 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2017",
+                        "lohn": "400",
+                        "sozialleistungen": "AHV, ALV und PK",
+                        "spesen": "nein",
+                        "abrechnung": "pauschal",
+                        "zeichen": "",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "Aufwand circa 1,5 Tage",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2017",
+                        "lohn": "400",
+                        "sozialleistungen": "AHV und ALV",
+                        "spesen": "nein",
+                        "abrechnung": "pauschal",
+                        "zeichen": "3800 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2017",
+                        "lohn": "400",
+                        "sozialleistungen": "keine",
+                        "spesen": "nein",
+                        "abrechnung": "pauschal",
+                        "zeichen": "6500 Zeichen plus ein Bild",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "",
+                        "offiziell": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Der Bund",
+        "logo": "bund",
+        "ressorts": [
+            {
+                "name": "Bern",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "33 Franken pro Stunde",
+                        "sozialleistungen": "AHV und ALV",
+                        "spesen": "nein",
+                        "abrechnung": "pro Stunde",
+                        "zeichen": "",
+                        "auftrag": "",
+                        "infos": "bei allen Arten von freier Mitarbeit gilt der Stundenansatz",
+                        "offiziell": false
+                    }
+                ]
+            },
+            {
+                "name": "Kultur",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "450",
+                        "sozialleistungen": "",
+                        "spesen": "",
+                        "abrechnung": "pro Zeichen /pro Stunde",
+                        "zeichen": "7000 Zeichen",
+                        "auftrag": "Auftragsarbeit",
+                        "infos": "",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2018",
+                        "lohn": "250",
+                        "sozialleistungen": "",
+                        "spesen": "",
+                        "abrechnung": "pro Zeichen /pro Stunde",
+                        "zeichen": "4000 Zeichen",
+                        "auftrag": "Auftragsarbeit",
+                        "infos": "",
+                        "offiziell": false
+                    }
+                ]
+            },
+            {
+                "name": "Lokal",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "33 Franken pro Stunde",
+                        "sozialleistungen": "AHV, ALV, PK",
+                        "spesen": "Reisekosten",
+                        "abrechnung": "pro Stunde",
+                        "zeichen": "unterschiedlich",
+                        "auftrag": "beides",
+                        "infos": "",
+                        "offiziell": false
+                    }
+                ]
+            },
+            {
+                "name": "Zentralressort (Abschlussredaktion)",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "40 Franken pro Stunde",
+                        "sozialleistungen": "AHV, ALV und PK",
+                        "spesen": "",
+                        "abrechnung": "pro Stunde",
+                        "zeichen": "",
+                        "auftrag": "Auftragsarbeit",
+                        "infos": "Redigier- und Layoutarbeit",
+                        "offiziell": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Edito",
+        "logo": "edito",
+        "ressorts": [
+            {
+                "name": "",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "200",
+                        "sozialleistungen": "weiss nicht mehr",
+                        "spesen": "",
+                        "abrechnung": "pauschal",
+                        "zeichen": "4000 Zeichen",
+                        "auftrag": "Auftragsarbeit",
+                        "infos": "",
+                        "offiziell": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Freiburger Nachrichten",
+        "logo": "freiburgernachrichten",
+        "ressorts": [
+            {
+                "name": "Kultur",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "220",
+                        "sozialleistungen": "keine",
+                        "spesen": "ja (Kaffee während Interview)",
+                        "abrechnung": "pauschal",
+                        "zeichen": "3500 Zeichen",
+                        "auftrag": "Auftragsarbeit",
+                        "infos": "Besuch einer Abendveranstaltung, ein Interview mit dem Leiter und Interviews mit Teilnehmenden. Dafür gab es etwas mehr (20 Fr.) als die übliche Pauschale von 200 Fr.",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2018",
+                        "lohn": "200",
+                        "sozialleistungen": "keine",
+                        "spesen": "",
+                        "abrechnung": "pauschal",
+                        "zeichen": "2500-3000 Zeichen",
+                        "auftrag": "Auftragsarbeit",
+                        "infos": "Es handelt sich um Kritiken. Gleiches Honorar für unterschiedliche Länge. Jeweils Besuch der Kulturveranstaltung (Theater, Ausstellung etc.) mit Vorrecherche",
+                        "offiziell": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Landbote",
+        "logo": "landbote",
+        "ressorts": [
+            {
+                "name": "Region",
+                "jobs": [
+                    {
+                        "jahr": "2015-2017",
+                        "lohn": "150",
+                        "sozialleistungen": "AHV",
+                        "spesen": "nein",
+                        "abrechnung": "pauschal",
+                        "zeichen": "3500 Zeichen",
+                        "auftrag": "meist Auftragsarbeiten",
+                        "infos": "",
+                        "offiziell": false
+                    }
+                ]
+            },
+            {
+                "name": "Stadtkultur",
+                "jobs": [
+                    {
+                        "jahr": "2017",
+                        "lohn": "140",
+                        "sozialleistungen": "keine",
+                        "spesen": "",
+                        "abrechnung": "pauschal",
+                        "zeichen": "4500 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "",
+                        "offiziell": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Medienwoche",
+        "logo": "medienwoche",
+        "ressorts": [
+            {
+                "name": "",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "1000",
+                        "sozialleistungen": "",
+                        "spesen": "",
+                        "abrechnung": "pauschal",
+                        "zeichen": "10000 Zeichen",
+                        "auftrag": "Auftragsarbeit",
+                        "infos": "2 Ortstermine",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2017",
+                        "lohn": "400",
+                        "sozialleistungen": "keine",
+                        "spesen": "",
+                        "abrechnung": "pauschal",
+                        "zeichen": "8000 Zeichen",
+                        "auftrag": "",
+                        "infos": "etwa 14 Stunden Aufwand",
+                        "offiziell": false
+                    }
+                ]
+            },
+            {
+                "name": "Ausland",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "500",
+                        "sozialleistungen": "keine",
+                        "spesen": "",
+                        "abrechnung": "pauschal",
+                        "zeichen": "6000 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "",
+                        "offiziell": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Migros Magazin",
+        "logo": "migrosmagazin",
+        "ressorts": [
+            {
+                "name": "",
+                "jobs": [
+                    {
+                        "jahr": "2015",
+                        "lohn": "1680",
+                        "sozialleistungen": "AHV",
+                        "spesen": "ja",
+                        "abrechnung": "Tagesansatz (560)",
+                        "zeichen": "",
+                        "auftrag": "",
+                        "infos": "3 Tage Aufwand",
+                        "offiziell": false
+                    }
+                ]
+            },
+            {
+                "name": "Inland",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "1050",
+                        "sozialleistungen": "AHV/IV, EO und PK",
+                        "spesen": "ja",
+                        "abrechnung": "Tagesansatz",
+                        "zeichen": "3000 Zeichen",
+                        "auftrag": "Auftragsarbeit",
+                        "infos": "",
+                        "offiziell": false
+                    }
+                ]
+            },
+            {
+                "name": "Porträt",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "1800",
+                        "sozialleistungen": "keine",
+                        "spesen": "Zug",
+                        "abrechnung": "pauschal",
+                        "zeichen": "13800 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "",
+                        "offiziell": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "NZZ",
+        "logo": "nzz",
+        "ressorts": [
+            {
+                "name": "",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "600",
+                        "sozialleistungen": "PK",
+                        "spesen": "Autospesen",
+                        "abrechnung": "pauschal",
+                        "zeichen": "10000 Zeichen",
+                        "auftrag": "Auftragsarbeit",
+                        "infos": "3 Ortstermine",
+                        "offiziell": false
+                    }
+                ]
+            },
+            {
+                "name": "Ausland",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "1450",
+                        "sozialleistungen": "keine",
+                        "spesen": "nein",
+                        "abrechnung": "pauschal / Zeilen",
+                        "zeichen": "17000 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "Auslandreportage, keine Spesenbeteiligung durch NZZ",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2018",
+                        "lohn": "200",
+                        "sozialleistungen": "AHV und PK",
+                        "spesen": "nein",
+                        "abrechnung": "pauschal",
+                        "zeichen": "3000 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "tagesaktuell, nicht aufwändig",
+                        "offiziell": false
+                    }
+                ]
+            },
+            {
+                "name": "Lokal, Inland, Sport, Vermischtes",
+                "jobs": [
+                    {
+                        "jahr": "2017",
+                        "lohn": "400",
+                        "sozialleistungen": "alle",
+                        "spesen": "ja",
+                        "abrechnung": "pro Tag (400)",
+                        "zeichen": "",
+                        "auftrag": "beides",
+                        "infos": "zusätzliches Fixum pro Monat von 400.-, egal wie viel ich schrieb, Teil meiner \"Anstellung\" als fester freier Mitarbeiter",
+                        "offiziell": false
+                    }
+                ]
+            },
+            {
+                "name": "Panorama",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "550",
+                        "sozialleistungen": "keine",
+                        "spesen": "nein",
+                        "abrechnung": "pauschal",
+                        "zeichen": "6000 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "total Arbeitsaufwand: ca. 10 Stunden",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2018",
+                        "lohn": "350",
+                        "sozialleistungen": "AHV und ALV",
+                        "spesen": "",
+                        "abrechnung": "pauschal",
+                        "zeichen": "3500 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2018",
+                        "lohn": "500",
+                        "sozialleistungen": "AHV und ALV",
+                        "spesen": "",
+                        "abrechnung": "pauschal",
+                        "zeichen": "5500 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2018",
+                        "lohn": "800",
+                        "sozialleistungen": "AHV und PK",
+                        "spesen": "",
+                        "abrechnung": "pauschal",
+                        "zeichen": "6000 Zeichen plus ein Bild",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2018",
+                        "lohn": "600",
+                        "sozialleistungen": "AHV und PK",
+                        "spesen": "nein",
+                        "abrechnung": "pauschal",
+                        "zeichen": "7000 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "",
+                        "offiziell": false
+                    }
+                ]
+            },
+            {
+                "name": "Wochenendbund",
+                "jobs": [
+                    {
+                        "jahr": "2017",
+                        "lohn": "800",
+                        "sozialleistungen": "nein",
+                        "spesen": "",
+                        "abrechnung": "pauschal",
+                        "zeichen": "eine Seite",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "",
+                        "offiziell": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "NZZ am Sonntag",
+        "logo": "nzzas",
+        "ressorts": [
+            {
+                "name": "Ausland",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "1400",
+                        "sozialleistungen": "",
+                        "spesen": "nein",
+                        "abrechnung": "pauschal",
+                        "zeichen": "8000 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "",
+                        "offiziell": false
+                    }
+                ]
+            },
+            {
+                "name": "Feuilleton",
+                "jobs": [
+                    {
+                        "jahr": "2017",
+                        "lohn": "800",
+                        "sozialleistungen": "AHV",
+                        "spesen": "nein",
+                        "abrechnung": "pauschal",
+                        "zeichen": "8000 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "",
+                        "offiziell": false
+                    }
+                ]
+            },
+            {
+                "name": "Freizeitsport",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "600",
+                        "sozialleistungen": "keine",
+                        "spesen": "",
+                        "abrechnung": "pauschal",
+                        "zeichen": "6400",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "",
+                        "offiziell": false
+                    }
+                ]
+            },
+            {
+                "name": "Gesellschaft",
+                "jobs": [
+                    {
+                        "jahr": "",
+                        "lohn": "1500",
+                        "sozialleistungen": "AHV",
+                        "spesen": "ja",
+                        "abrechnung": "pauschal",
+                        "zeichen": "15000 Zeichen",
+                        "auftrag": "",
+                        "infos": "rund eine Woche Aufwand",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2017",
+                        "lohn": "2000",
+                        "sozialleistungen": "keine",
+                        "spesen": "nein",
+                        "abrechnung": "pauschal",
+                        "zeichen": "",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "aufwändige Recherche",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2016",
+                        "lohn": "1500",
+                        "sozialleistungen": "AHV und ALV",
+                        "spesen": "Beitrag an Flug",
+                        "abrechnung": "pauschal",
+                        "zeichen": "",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "Reportage, aufwändige Recherche",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2016",
+                        "lohn": "1500",
+                        "sozialleistungen": "keine",
+                        "spesen": "Zug",
+                        "abrechnung": "pauschal",
+                        "zeichen": "13300 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "bei der NZZ (Gesellschaft) erhielt ich, egal wie viel Aufwand, für einen Auftrag immer 1500.",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2015",
+                        "lohn": "2000",
+                        "sozialleistungen": "keine",
+                        "spesen": "Beitrag an Flug und Transport",
+                        "abrechnung": "pauschal",
+                        "zeichen": "",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "Auslandsreportage, grosse Recherche",
+                        "offiziell": false
+                    }
+                ]
+            },
+            {
+                "name": "Wissen",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "1200",
+                        "sozialleistungen": "AHV und PK",
+                        "spesen": "nein",
+                        "abrechnung": "pauschal",
+                        "zeichen": "7000 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2018",
+                        "lohn": "700",
+                        "sozialleistungen": "AHV und PK",
+                        "spesen": "",
+                        "abrechnung": "",
+                        "zeichen": "5500 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "",
+                        "offiziell": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Obersee Nachrichten",
+        "logo": "oberseenachrichten",
+        "ressorts": [
+            {
+                "name": "Fokus",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "350",
+                        "sozialleistungen": "keine",
+                        "spesen": "",
+                        "abrechnung": "pauschal",
+                        "zeichen": "3500 Zeichen",
+                        "auftrag": "beides",
+                        "infos": "inklusive Strassenumfrage (4 Teilnehmer, mit Foto)",
+                        "offiziell": false
+                    }
+                ]
+            },
+            {
+                "name": "Interview",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "300",
+                        "sozialleistungen": "keine",
+                        "spesen": "",
+                        "abrechnung": "pauschal",
+                        "zeichen": "6500 Zeichen",
+                        "auftrag": "Auftragsarbeit",
+                        "infos": "",
+                        "offiziell": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Oltner Stadtanzeiger",
+        "logo": "oltnerstadtanzeiger",
+        "ressorts": [
+            {
+                "name": "Im Gespräch / Stadt / Rückblick",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "150",
+                        "sozialleistungen": "AHV/IV, ALV, NBUV, PK",
+                        "spesen": "nein",
+                        "abrechnung": "pauschal",
+                        "zeichen": "4500-5000 Zeichen",
+                        "auftrag": "Auftragsarbeit",
+                        "infos": "circa 4 Stunden Aufwand (exkl. An- und Rückreise)",
+                        "offiziell": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Radio SRF2 Kultur",
+        "logo": "srf2kultur",
+        "ressorts": [
+            {
+                "name": "Aktualität",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "400",
+                        "sozialleistungen": "AHV",
+                        "spesen": "",
+                        "abrechnung": "pauschal",
+                        "zeichen": "3.30-4 Minuten",
+                        "auftrag": "beides",
+                        "infos": "",
+                        "offiziell": false
+                    }
+                ]
+            },
+            {
+                "name": "Kontext",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "2300",
+                        "sozialleistungen": "AHV/IV, ALV und NBUV",
+                        "spesen": "pauschale Spesenbeteiligung (600)",
+                        "abrechnung": "pauschal",
+                        "zeichen": "50 Minuten",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "Auslandreise",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2018",
+                        "lohn": "920",
+                        "sozialleistungen": "AHV/IV, ALV, NBUV",
+                        "spesen": "Zug",
+                        "abrechnung": "pauschal",
+                        "zeichen": "15 Minuten",
+                        "auftrag": "Auftragsarbeit",
+                        "infos": "",
+                        "offiziell": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Rundschau (Effingermedien)",
+        "logo": "effingermedien",
+        "ressorts": [
+            {
+                "name": "Region",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "100-140",
+                        "sozialleistungen": "AHV",
+                        "spesen": "",
+                        "abrechnung": "pauschal",
+                        "zeichen": "3500 Zeichen",
+                        "auftrag": "Auftragsarbeit",
+                        "infos": "Meistens Besuch eines Anlasses oder Interview, Zeitaufwand inkl. schreiben ca. 4 Stunden",
+                        "offiziell": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Schaffhauser Nachrichten",
+        "logo": "schaffhausernachrichten",
+        "ressorts": [
+            {
+                "name": "Region",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "80 Rappen pro Zeile (à 35Z) oder 80 Franken pro Anlass",
+                        "sozialleistungen": "",
+                        "spesen": "",
+                        "abrechnung": "pro Zeile oder pauschal pro Anlass",
+                        "zeichen": "oft kleinere Artikel",
+                        "auftrag": "",
+                        "infos": "",
+                        "offiziell": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Schweizer Familie",
+        "logo": "schweizerfamilie",
+        "ressorts": [
+            {
+                "name": "",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "1500",
+                        "sozialleistungen": "AHV und PK",
+                        "spesen": "Zug",
+                        "abrechnung": "pauschal",
+                        "zeichen": "13500 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "sehr aufwändige Recherche",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2017",
+                        "lohn": "500",
+                        "sozialleistungen": "keine",
+                        "spesen": "",
+                        "abrechnung": "pauschal",
+                        "zeichen": "1000 Zeichen",
+                        "auftrag": "",
+                        "infos": "Aufwand einen Tag",
+                        "offiziell": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Schweizer Journalist",
+        "logo": "schweizerjournalist",
+        "ressorts": [
+            {
+                "name": "",
+                "jobs": [
+                    {
+                        "jahr": "2015",
+                        "lohn": "800",
+                        "sozialleistungen": "",
+                        "spesen": "",
+                        "abrechnung": "pauschal",
+                        "zeichen": "9000 Zeichen",
+                        "auftrag": "",
+                        "infos": "",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2015",
+                        "lohn": "800",
+                        "sozialleistungen": "",
+                        "spesen": "",
+                        "abrechnung": "pauschal",
+                        "zeichen": "7500 Zeichen",
+                        "auftrag": "",
+                        "infos": "",
+                        "offiziell": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "sda",
+        "logo": "sda",
+        "ressorts": [
+            {
+                "name": "Kultur",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "780",
+                        "sozialleistungen": "AHV und ALV",
+                        "spesen": "Zug und Verpflegung",
+                        "abrechnung": "pro Stunde",
+                        "zeichen": "3000-4500 Zeichen",
+                        "auftrag": "Auftragsarbeit",
+                        "infos": "Aufwändige Porträts mit Lektüre, Treffen der Autoren und Videointerview zusammen mit Keystone. Die Artikel und das Keystone-Video können theoretisch in allen Medien erscheinen, die das Angebot der SDA abonniert haben. Zweitverwertungs-Honorar gibt es folglich nicht. Ist aber nicht unbedingt repräsentativ für die ganze SDA oder das Kulturressort, weil diese Literatur-Reihe von der Gottlieb und Hans Vogt-Stiftung mit einem Medienförderungsbeitrag unterstützt wird.",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2018",
+                        "lohn": "330",
+                        "sozialleistungen": "",
+                        "spesen": "ja",
+                        "abrechnung": "pro Zeichen",
+                        "zeichen": "4500 Zeichen",
+                        "auftrag": "Auftragsarbeit",
+                        "infos": "",
+                        "offiziell": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Sonntagsblick Magazin",
+        "logo": "sobli",
+        "ressorts": [
+            {
+                "name": "",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "1000",
+                        "sozialleistungen": "nein",
+                        "spesen": "ja",
+                        "abrechnung": "pauschal",
+                        "zeichen": "drei Seiten inkl. Bildern",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "",
+                        "offiziell": false
+                    }
+                ]
+            },
+            {
+                "name": "Magazin",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "1800",
+                        "sozialleistungen": "AHV und ALV",
+                        "spesen": "",
+                        "abrechnung": "pauschal",
+                        "zeichen": "",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "Auflandreportage, hoher Rechercheaufwand",
+                        "offiziell": false
+                    }
+                ]
+            },
+            {
+                "name": "Thema",
+                "jobs": [
+                    {
+                        "jahr": "2019",
+                        "lohn": "1250",
+                        "sozialleistungen": "keine",
+                        "spesen": "nein",
+                        "abrechnung": "pauschal",
+                        "zeichen": "8000 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "Zweitverwertung mit Zusatzaufwand von einem Tag",
+                        "offiziell": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "SRG Link Magazin",
+        "logo": "srg",
+        "ressorts": [
+            {
+                "name": "",
+                "jobs": [
+                    {
+                        "jahr": "2016",
+                        "lohn": "1034",
+                        "sozialleistungen": "AHV",
+                        "spesen": "60.80 Infrastrukturentschädigung/Tag",
+                        "abrechnung": "pauschal",
+                        "zeichen": "5500 Zeichen",
+                        "auftrag": "Auftragsarbeit",
+                        "infos": "Ansatz: 517.-/Tag. Aufwand meist um zwei Tage. Gutes Feedback, gute Zusammenarbeit, spannende Themen.",
+                        "offiziell": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "SRG SSR",
+        "logo": "srg",
+        "ressorts": [
+            {
+                "name": "RTS Temps présent",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "1950",
+                        "sozialleistungen": "AHV, ALV, EO und IV",
+                        "spesen": "",
+                        "abrechnung": "Tagesansatz",
+                        "zeichen": "mehrtägiger Rechercheauftrag für einen Dokumentarfilm",
+                        "auftrag": "Auftragsarbeit",
+                        "infos": "",
+                        "offiziell": false
+                    }
+                ]
+            },
+            {
+                "name": "SRF Kultur Online",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "2030",
+                        "sozialleistungen": "AHV",
+                        "spesen": "Zug",
+                        "abrechnung": "Tagesansatz (440)",
+                        "zeichen": "10000 Zeichen",
+                        "auftrag": "Auftragsarbeit",
+                        "infos": "",
+                        "offiziell": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Stil Magazin (NZZ)",
+        "logo": "stil",
+        "ressorts": [
+            {
+                "name": "Reisen",
+                "jobs": [
+                    {
+                        "jahr": "",
+                        "lohn": "600",
+                        "sozialleistungen": "keine",
+                        "spesen": "",
+                        "abrechnung": "pauschal",
+                        "zeichen": "5500 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "Auslandsreise, 3 Tage Aufwand",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2018",
+                        "lohn": "300",
+                        "sozialleistungen": "keine",
+                        "spesen": "",
+                        "abrechnung": "pauschal",
+                        "zeichen": "3500 Zeichen",
+                        "auftrag": "Auftragsarbeit",
+                        "infos": "inkl. Zweitverwertung online",
+                        "offiziell": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Surprise",
+        "logo": "surprise",
+        "ressorts": [
+            {
+                "name": "",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "400",
+                        "sozialleistungen": "AHV, ALV und PK",
+                        "spesen": "nein",
+                        "abrechnung": "pauschal",
+                        "zeichen": "",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "Zweitpublikation",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2017",
+                        "lohn": "400",
+                        "sozialleistungen": "keine",
+                        "spesen": "",
+                        "abrechnung": "pauschal",
+                        "zeichen": "10000 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "",
+                        "offiziell": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Swissinfo",
+        "logo": "swi",
+        "ressorts": [
+            {
+                "name": "Ausland",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "200",
+                        "sozialleistungen": "AHV und PK",
+                        "spesen": "nein",
+                        "abrechnung": "pauschal",
+                        "zeichen": "4000 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "Zweitpublikation",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2018",
+                        "lohn": "700",
+                        "sozialleistungen": "AHV und PK",
+                        "spesen": "",
+                        "abrechnung": "pauschal",
+                        "zeichen": "7000 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "",
+                        "offiziell": false
+                    }
+                ]
+            },
+            {
+                "name": "Inland",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "700",
+                        "sozialleistungen": "AHV, ALV und PK",
+                        "spesen": "Zug",
+                        "abrechnung": "pauschal",
+                        "zeichen": "6000 Zeichen",
+                        "auftrag": "Auftragsarbeit",
+                        "infos": "",
+                        "offiziell": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Tagblatt der Stadt Zürich",
+        "logo": "tablattzuerich",
+        "ressorts": [
+            {
+                "name": "",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "200",
+                        "sozialleistungen": "",
+                        "spesen": "",
+                        "abrechnung": "200.- pro Seite/ 400.- für Doppelseite",
+                        "zeichen": "",
+                        "auftrag": "beides",
+                        "infos": "",
+                        "offiziell": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Tages-Anzeiger",
+        "logo": "tagi",
+        "ressorts": [
+            {
+                "name": "Inland",
+                "jobs": [
+                    {
+                        "jahr": "2017",
+                        "lohn": "800",
+                        "sozialleistungen": "AHV, ALV, PK",
+                        "spesen": "",
+                        "abrechnung": "pauschal",
+                        "zeichen": "eine Seite",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "Drei Tage Aufwand",
+                        "offiziell": false
+                    }
+                ]
+            },
+            {
+                "name": "Online",
+                "jobs": [
+                    {
+                        "jahr": "",
+                        "lohn": "400",
+                        "sozialleistungen": "AHV",
+                        "spesen": "nein",
+                        "abrechnung": "Tagesansatz",
+                        "zeichen": "",
+                        "auftrag": "",
+                        "infos": "",
+                        "offiziell": false
+                    }
+                ]
+            },
+            {
+                "name": "Zürich",
+                "jobs": [
+                    {
+                        "jahr": "2017",
+                        "lohn": "500",
+                        "sozialleistungen": "AHV, ALV und PK",
+                        "spesen": "nein",
+                        "abrechnung": "pauschal",
+                        "zeichen": "7000 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "",
+                        "offiziell": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "thurgaukultur.ch",
+        "logo": "thurgaukultur",
+        "ressorts": [
+            {
+                "name": "",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "200",
+                        "sozialleistungen": "keine",
+                        "spesen": "nein",
+                        "abrechnung": "pauschal",
+                        "zeichen": "unterschiedlich",
+                        "auftrag": "beides",
+                        "infos": "Honorare für Textbeiträge sind pauschal 200 Franken, kein zusätzliches Honorar für eigene Bilder",
+                        "offiziell": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Tierwelt",
+        "logo": "tierwelt",
+        "ressorts": [
+            {
+                "name": "",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "600",
+                        "sozialleistungen": "AHV und PK",
+                        "spesen": "Zug",
+                        "abrechnung": "300 Franken pro Seite",
+                        "zeichen": "6000 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "",
+                        "offiziell": false
+                    }
+                ]
+            },
+            {
+                "name": "Reisen",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "600",
+                        "sozialleistungen": "keine",
+                        "spesen": "",
+                        "abrechnung": "300 Franken pro Seite",
+                        "zeichen": "6000 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "",
+                        "offiziell": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Toggenburger Zeitung",
+        "logo": "toz",
+        "ressorts": [
+            {
+                "name": "Region",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "200",
+                        "sozialleistungen": "keine",
+                        "spesen": "",
+                        "abrechnung": "pauschal",
+                        "zeichen": "3000-4000 Zeichen",
+                        "auftrag": "beides",
+                        "infos": "es gibt immer 200 Franken, egal wie gross der Aufwand ist. ",
+                        "offiziell": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Vice Schweiz",
+        "logo": "vice",
+        "ressorts": [
+            {
+                "name": "",
+                "jobs": [
+                    {
+                        "jahr": "2017",
+                        "lohn": "450",
+                        "sozialleistungen": "keine",
+                        "spesen": "Zug",
+                        "abrechnung": "pauschal",
+                        "zeichen": "11000 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "inkl. Fotos",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2017",
+                        "lohn": "250",
+                        "sozialleistungen": "keine",
+                        "spesen": "Zug",
+                        "abrechnung": "pauschal",
+                        "zeichen": "7200 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2017",
+                        "lohn": "250",
+                        "sozialleistungen": "keine",
+                        "spesen": "Zug",
+                        "abrechnung": "pauschal",
+                        "zeichen": "7600 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2017",
+                        "lohn": "300",
+                        "sozialleistungen": "keine",
+                        "spesen": "",
+                        "abrechnung": "pauschal",
+                        "zeichen": "13000 Zeichen",
+                        "auftrag": "Auftragsarbeit",
+                        "infos": "musste unterschrieben werden: \"Hiermit erkläre ich, dass ich auf AHV/IV/EO- und ALV-Beiträge aus dem Arbeitsverhältnis mit VICE Switzerland GmbH verzichte, da es sich um eine geringfügige Entschädigung für Nebenerwerb handelt, welche jährlich unter CHF 2'300.00 liegt.\"",
+                        "offiziell": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Wiler Zeitung",
+        "logo": "wilerzeitung",
+        "ressorts": [
+            {
+                "name": "Lokal",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "150",
+                        "sozialleistungen": "",
+                        "spesen": "Autospesen 0.70Fr./km",
+                        "abrechnung": "pauschal",
+                        "zeichen": "3000 Zeichen",
+                        "auftrag": "Auftragsarbeit",
+                        "infos": "tagesaktueller Bericht",
+                        "offiziell": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "WOZ",
+        "logo": "woz",
+        "ressorts": [
+            {
+                "name": "",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "290",
+                        "sozialleistungen": "",
+                        "spesen": "",
+                        "abrechnung": "pro Zeile",
+                        "zeichen": "5500 Zeichen",
+                        "auftrag": "Auftragsarbeit",
+                        "infos": "",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2018",
+                        "lohn": "500",
+                        "sozialleistungen": "AHV und ALV",
+                        "spesen": "",
+                        "abrechnung": "pauschal",
+                        "zeichen": "6500 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "eher aufwändig, mehrere Treffen",
+                        "offiziell": false
+                    }
+                ]
+            },
+            {
+                "name": "Ausland",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "500",
+                        "sozialleistungen": "AHV",
+                        "spesen": "Unterkunft, Transport",
+                        "abrechnung": "pro Zeichen (10000 = 500 Franken)",
+                        "zeichen": "10000 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2018",
+                        "lohn": "525",
+                        "sozialleistungen": "AHV, ALV und PK",
+                        "spesen": "Beitrag an Flug und Unterkunft",
+                        "abrechnung": "pro Zeile",
+                        "zeichen": "",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "Auslandsreportage, aufwändige Recherche",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2018",
+                        "lohn": "500",
+                        "sozialleistungen": "AHV und PK",
+                        "spesen": "Transport, Übersetzer",
+                        "abrechnung": "pauschal",
+                        "zeichen": "10000 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2017",
+                        "lohn": "500",
+                        "sozialleistungen": "AHV, ALV, EO, NBUV",
+                        "spesen": "Beitrag an Flug und Unterkunft",
+                        "abrechnung": "",
+                        "zeichen": "10000 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "aufwändige Auslandrecherche",
+                        "offiziell": false
+                    }
+                ]
+            },
+            {
+                "name": "Inland",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "1075",
+                        "sozialleistungen": "AHV und ALV",
+                        "spesen": "Anteil an Unterkunft und Übersetzer",
+                        "abrechnung": "pro Zeile + Pauschale für Extraaufwand",
+                        "zeichen": "10000 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "Auslandreise, Artikel mehrmals angepasst",
+                        "offiziell": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Z Magazin (NZZ)",
+        "logo": "zmagazin",
+        "ressorts": [
+            {
+                "name": "Reisen",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "900",
+                        "sozialleistungen": "keine",
+                        "spesen": "",
+                        "abrechnung": "pauschal",
+                        "zeichen": "9000 Zeichen",
+                        "auftrag": "Auftragsarbeit",
+                        "infos": "",
+                        "offiziell": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "ZEIT Schweiz",
+        "logo": "diezeit",
+        "ressorts": [
+            {
+                "name": "",
+                "jobs": [
+                    {
+                        "jahr": "2017",
+                        "lohn": "600",
+                        "sozialleistungen": "AHV",
+                        "spesen": "nein",
+                        "abrechnung": "pauschal",
+                        "zeichen": "8000 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2014",
+                        "lohn": "400",
+                        "sozialleistungen": "",
+                        "spesen": "",
+                        "abrechnung": "pauschal",
+                        "zeichen": "6500 Zeichen",
+                        "auftrag": "",
+                        "infos": "",
+                        "offiziell": false
+                    }
+                ]
+            },
+            {
+                "name": "Schweiz",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "700",
+                        "sozialleistungen": "keine",
+                        "spesen": "Zug",
+                        "abrechnung": "pauschal",
+                        "zeichen": "11000 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "Interview",
+                        "offiziell": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Zentralschweiz am Sonntag",
+        "logo": "",
+        "ressorts": [
+            {
+                "name": "Ausland",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "750",
+                        "sozialleistungen": "",
+                        "spesen": "nein",
+                        "abrechnung": "pauschal",
+                        "zeichen": "10000 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "Zweitverwertung",
+                        "offiziell": false
+                    },
+                    {
+                        "jahr": "2018",
+                        "lohn": "650",
+                        "sozialleistungen": "",
+                        "spesen": "nein",
+                        "abrechnung": "pauschal",
+                        "zeichen": "4500 Zeichen",
+                        "auftrag": "eigene Geschichte",
+                        "infos": "Zweitverwertung",
+                        "offiziell": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Zürichsee Zeitung",
+        "logo": "zuerichseezeitung",
+        "ressorts": [
+            {
+                "name": "Bezirk Horgen",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "170",
+                        "sozialleistungen": "AHV, ALV, NBU",
+                        "spesen": "nein",
+                        "abrechnung": "pauschal",
+                        "zeichen": "3700 Zeichen",
+                        "auftrag": "Auftragsarbeit",
+                        "infos": "Tagesaktueller Bericht. Ganzer Vormittag vor Ort, von Nachmittag bis Abend am Schreiben.",
+                        "offiziell": false
+                    }
+                ]
+            },
+            {
+                "name": "Region",
+                "jobs": [
+                    {
+                        "jahr": "2018",
+                        "lohn": "170",
+                        "sozialleistungen": "keine",
+                        "spesen": "",
+                        "abrechnung": "pauschal",
+                        "zeichen": "3000-4000 Zeichen",
+                        "auftrag": "Auftragsarbeit",
+                        "infos": "Meist handelt es sich um Nachberichterstattungen kultureller Anlässe",
+                        "offiziell": false
+                    }
+                ]
+            }
+        ]
+    }
+]

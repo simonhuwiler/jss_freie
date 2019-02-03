@@ -8,8 +8,9 @@ function Line(props)
     return ""
   else
   {
+    const classes = props.offiziell ? 'line line_offiziell' : 'line';
     return (
-      <div className='line'>
+      <div className={classes}>
         <div>{props.title}</div>
         <div>{props.text}</div>
       </div>
@@ -22,16 +23,23 @@ function Job(props)
   let data = props.data;
   var format = require('format-number');
   let lohn = data.lohn && !isNaN(data.lohn) ? format({ suffix: '.-', integerSeparator : "'"})(data.lohn, {noSeparator: false}) : data.lohn;
+
+  //Add classes
+  const classes = data.offiziell === true ? 'job job_offiziell' : 'job';
+
   return (
-    <div className='job'>
-      <Line title='Jahr' text={data.jahr}/>
-      <Line title='Länge' text={data.zeichen} />
-      <Line title='Lohn brutto' text={lohn}/>
-      <Line title='Sozialleistungen' text={data.sozialleistungen} />
-      <Line title='Spesen' text={data.spesen} />
-      <Line title='Abrechnung' text={data.abrechnung} />
-      <Line title='Auftrag' text={data.auftrag} />
-      <Line title='Infos' text={data.infos} />
+    <div className={classes}>
+      {data.offiziell === true &&
+        <div className='line_title'>Offizielle Angaben</div>
+      }
+      <Line title='Jahr' text={data.jahr} offiziell={data.offiziell}/>
+      <Line title='Länge' text={data.zeichen}  offiziell={data.offiziell}/>
+      <Line title='Lohn brutto' text={lohn} offiziell={data.offiziell}/>
+      <Line title='Sozialleistungen' text={data.sozialleistungen} offiziell={data.offiziell}/>
+      <Line title='Spesen' text={data.spesen} offiziell={data.offiziell}/>
+      <Line title='Abrechnung' text={data.abrechnung} offiziell={data.offiziell}/>
+      <Line title='Auftrag' text={data.auftrag} offiziell={data.offiziell}/>
+      <Line title='Infos' text={data.infos} offiziell={data.offiziell}/>
     </div>
   )
 }

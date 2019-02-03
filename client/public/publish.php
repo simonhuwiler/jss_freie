@@ -93,6 +93,7 @@ function job_to_object($entry)
 	$new_job['zeichen'] = $entry['zeichen'];
 	$new_job['auftrag'] = $entry['auftrag'];
 	$new_job['infos'] = $entry['infos'];
+	$new_job['offiziell'] = $entry['offiziell'] == '1' ? true : false;
 	return $new_job;
 }
 
@@ -155,20 +156,22 @@ foreach($bulk['data'] as $entry)
 //Sort array
 function cmp_name($a, $b)
 {
-    return strcasecmp($a['name'], $b['name']);
+  return strcasecmp($a['name'], $b['name']);
 }
 
 function cmp_year($a, $b)
 {
-	$a = $a['jahr'];
-	$b = $b['jahr'];
-	if($a == "")
-		$a = "9999";
-	if($b == "")
-		$b = "9999";
-	if(intval($a) < intval($b))
+	//Check if empty
+	$s_a = $a['jahr'] == "" ? "9999" : $a['jahr'];
+	$s_b = $b['jahr'] == "" ? "9999" : $b['jahr'];
+	
+	//Check if offiziell
+	$s_a = $a['offiziell'] == true ? "9999999" : $s_a;
+	$s_b = $b['offiziell'] == true ? "9999999" : $s_b;
+
+	if(intval($s_a) < intval($s_b))
 		return 1;
-	elseif(intval($a) == intval($b))
+	elseif(intval($s_a) == intval($s_b))
 		return 0;
 	else
 	  return -1;

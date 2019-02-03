@@ -274,3 +274,20 @@ input[type=text]:focus {
 {
   margin: 15px 0px 30px 0px;
 }
+
+.line_title
+{
+  color: #000;
+  padding: 0px 0px 5px 0px;
+}
+
+.job_offiziell
+{
+  background-color: #00e8c148;
+  padding: 10px;
+}
+
+.line_offiziell
+{
+  xborder-bottom: 1px solid #00e8c1;
+}
