@@ -117,11 +117,7 @@ foreach($bulk['data'] as $entry)
 			$found = true;
 			//Medium already in array. Add job
 
-			if($entry['offiziell'] == '1')
-			{
-				$new_medium['text_offiziell'] = $entry['infos'];
-			}
-			else
+			if($entry['offiziell'] != '1')
 			{
 
 				//First: Look, if ressort already exists
@@ -155,12 +151,27 @@ foreach($bulk['data'] as $entry)
 		$new_medium['logo'] = $entry['logo'];
 		$new_medium['ressorts'] = [];
 
-		if($entry['offiziell'] == '1')
-			$new_medium['text_offiziell'] = $entry['infos'];
-		else
+		if($entry['offiziell'] != '1')
 		  $new_medium['ressorts'][] = ressort_to_object($entry);
 
 		$deep_data[] = $new_medium;
+	}
+}
+
+//Loop again and search for "offiziell"
+foreach($bulk['data'] as $entry)
+{
+	if($entry['offiziell'] == 1)
+	{
+		//Find corresponding entry in deep array
+		foreach($deep_data as &$medium)
+		{
+			if(strtolower($medium['name']) === strtolower($entry['medium']))
+			{
+				$medium['text_offiziell'] = $entry['infos'];
+				break;
+			}
+		}
 	}
 }
 
