@@ -22,7 +22,7 @@ $bulkname = "bulk";
 
 
 
-for($i=0;$i<count($names);$i++) {
+for($i=0; $i < count($names); $i++) {
 	//echo($names[$i]);
 
 	$url = $urls[$i];
@@ -108,6 +108,9 @@ function ressort_to_object($entry)
 
 foreach($bulk['data'] as $entry)
 {
+	if($entry['medium'] == "")
+		continue;
+
 	//Search in deep_data if medium already exists
 	$found = false;
 	foreach($deep_data as &$medium)
