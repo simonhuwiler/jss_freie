@@ -252,6 +252,10 @@ input[type=text]:focus {
 .line div
 {
   display: inline-block;
+  width: calc(100% - 110px);
+  width: -webkit-calc(100% - 110px);
+  width: -o-calc(100% - 110px);
+  width: -moz-calc(100% - 110px);
 }
 
 .line div:first-child
@@ -260,10 +264,17 @@ input[type=text]:focus {
   color: #9b9b9b;
   font-size: 0.8em;
   font-weight: bold;
+  padding-top: 3px;
+  vertical-align: top;
 }
 
 @media (max-width: 400px)
 {
+  .line div
+  {
+    width: 100%;
+  }
+
   .line div:first-child
   {
     width: 100%;
