@@ -1,6 +1,12 @@
 # JSS Freie Datenbank
 See it live: https://www.jungejournalisten.ch/freierjournalismus
 
+## How to
+* Update [this Google spreadsheet](https://docs.google.com/spreadsheets/d/1Zf2RTNNMRqyazMLEXNj_pg2zRwipWioKQv8NsYwzFtY/edit#gid=1617353131)
+* Create [Bulk File](https://chicagoblues.ch/jss/freie/publish.php)
+* Add Logo
+* `npm run build` and upload
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
